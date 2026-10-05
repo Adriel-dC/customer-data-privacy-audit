@@ -73,7 +73,30 @@ independent human benchmark or an estimate of full-dataset performance.
 
 ## Running the workflow
 
-Requirements: Python and pandas.
+Tested with Python 3.13 and pandas 3.0.6.
+
+From the project root, create a virtual environment and install
+the dependencies:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+On Windows PowerShell, activate the environment before running
+the workflow:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+If script execution is blocked, allow it for the current
+PowerShell session and try activation again:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+.\.venv\Scripts\Activate.ps1
+```
 
 Run the following commands from the project root:
 
