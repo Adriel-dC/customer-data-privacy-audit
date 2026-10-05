@@ -1,0 +1,19 @@
+ticket_id,customer_id,created_at,category,comment,date_invalid_or_missing,customer_unknown,customer_conflicting,comment_missing,review_reason
+T00001,UNKNOWN000,2025-10-20T02:41:00,Billing,Could you send me the invoice for this month?,False,True,False,False,customer_unknown
+T00002,UNKNOWN001,2025-07-06T10:01:00,Account,How can I update my account details?,False,True,False,False,customer_unknown
+T00003,UNKNOWN002,2025-11-02T22:33:00,Billing,Could you send me the invoice for this month?,False,True,False,False,customer_unknown
+T00004,UNKNOWN003,2025-04-29T14:32:00,Subscription,How can I upgrade to the Pro plan?,False,True,False,False,customer_unknown
+T00005,UNKNOWN004,2025-12-25T15:15:00,Subscription,How can I upgrade to the Pro plan?,False,True,False,False,customer_unknown
+T00006,UNKNOWN005,2025-09-17T14:50:00,Technical,My dashboard has not updated since yesterday.,False,True,False,False,customer_unknown
+T00007,UNKNOWN006,2026-01-03T22:54:00,Billing,The discount was not applied to my payment.,False,True,False,False,customer_unknown
+T00008,UNKNOWN007,2025-12-13T23:11:00,Technical,The app closes when I try to upload a file.,False,True,False,False,customer_unknown
+T00009,UNKNOWN008,2025-11-12T20:44:00,Billing,The discount was not applied to my payment.,False,True,False,False,customer_unknown
+T00010,UNKNOWN009,2025-12-31T04:18:00,Subscription,How can I upgrade to the Pro plan?,False,True,False,False,customer_unknown
+T00041,C0328,2025-02-30T10:00:00,Billing,The discount was not applied to my payment.,True,False,False,False,date_invalid_or_missing
+T00042,C0149,2025-02-30T10:00:00,Technical,I get an error when exporting my report.,True,False,False,False,date_invalid_or_missing
+T00043,C0208,2025-02-30T10:00:00,Technical,I get an error when exporting my report.,True,False,False,False,date_invalid_or_missing
+T00044,C0031,2025-02-30T10:00:00,Account,How can I update my account details?,True,False,False,False,date_invalid_or_missing
+T00257,C0201,2025-11-25T12:00:00,Billing,Could you send me the invoice for this month?,False,False,True,False,customer_conflicting
+T00286,C0251,2025-11-10T21:35:00,Account,How can I update my account details?,False,False,True,False,customer_conflicting
+T00329,C0201,2025-11-20T23:50:00,Billing,Could you send me the invoice for this month?,False,False,True,False,customer_conflicting
+T00436,C0251,2025-09-09T21:54:00,Technical,I get an error when exporting my report.,False,False,True,False,customer_conflicting

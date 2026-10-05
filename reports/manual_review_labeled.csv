@@ -1,0 +1,21 @@
+ticket_id;comment;detected_email;detected_phone;actual_email;actual_phone;review_notes
+T00065;I would like to close my account. Please call me on +1 202-555-0133.;FALSE;TRUE;FALSE;TRUE;Phone number in comment.
+T00097;I get an error when exporting my report.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00110;How can I upgrade to the Pro plan?;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00109;How can I upgrade to the Pro plan? Please call me on (202) 555-0143.;FALSE;TRUE;FALSE;TRUE;Phone number in comment.
+T00219;I cannot log in after resetting my password. Please reply to customer.218@example.com.;TRUE;FALSE;TRUE;FALSE;Email address in comment.
+T00949;The discount was not applied to my payment. Please call me on +1 202-555-0130.;FALSE;TRUE;FALSE;TRUE;Phone number in comment.
+T00079;I get an error when exporting my report.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00814;I was charged twice for my subscription. Please reply to customer.813@example.com.;TRUE;FALSE;TRUE;FALSE;Email address in comment.
+T00571;I was charged twice for my subscription.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00503;Please cancel my subscription before renewal.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00703;I would like to close my account.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00600;The app closes when I try to upload a file. Please reply to customer.599@example.com.;TRUE;FALSE;TRUE;FALSE;Email address in comment.
+T00974;The discount was not applied to my payment. Please call me on +1 202-555-0142.;FALSE;TRUE;FALSE;TRUE;Phone number in comment.
+T00056;Please check invoice 1234567890. I was charged twice.;FALSE;TRUE;FALSE;FALSE;"Invoice number; not a phone number."
+T00256;I get an error when exporting my report. Please reply to customer.255@example.com.;TRUE;FALSE;TRUE;FALSE;Email address in comment.
+T00230;Please cancel my subscription before renewal.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00848;What features are included in the Premium plan? Please call me on (202) 555-0146.;FALSE;TRUE;FALSE;TRUE;Phone number in comment.
+T00347;How can I update my account details?;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00733;I get an error when exporting my report.;FALSE;FALSE;FALSE;FALSE;No email or phone number.
+T00592;Please cancel my subscription before renewal. Please reply to customer.591@example.com.;TRUE;FALSE;TRUE;FALSE;Email address in comment.

@@ -1,0 +1,22 @@
+check,result
+Customer row accounting,PASS
+Ticket row accounting,PASS
+Customer records preserved across accepted and review outputs,PASS
+Ticket records preserved across accepted and review outputs,PASS
+Accepted customer IDs are unique,PASS
+Accepted ticket IDs are unique,PASS
+Accepted tickets reference accepted customers,PASS
+Accepted ticket dates are valid,PASS
+Redaction preserves row count,PASS
+Redaction preserves ticket metadata,PASS
+Redaction preserves missing comments,PASS
+No email pattern matches remain in redacted comments,PASS
+Valid review labels: detected_phone,PASS
+Valid review labels: actual_phone,PASS
+Remaining phone candidates match reviewed exceptions,PASS
+Valid saved flags: email_missing,PASS
+Saved flags match data: email_missing,PASS
+Valid saved flags: email_invalid,PASS
+Saved flags match data: email_invalid,PASS
+Valid saved flags: comment_missing,PASS
+Saved flags match data: comment_missing,PASS

@@ -1,0 +1,5 @@
+customer_id,name,email,plan,signup_date,review_reason
+C0201,Ethan Taylor,ethan.201@example.com,Basic,2025-10-12,Conflicting customer records
+C0251,Lucas Johnson,lucas.251@example.com,Pro,2025-08-29,Conflicting customer records
+C0201,Ethan Taylor,ethan.201@example.com,Pro,2025-10-12,Conflicting customer records
+C0251,Lucas Johnson,lucas.251@example.com,Premium,2025-08-29,Conflicting customer records

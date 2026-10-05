@@ -1,0 +1,2 @@
+ticket_id,comment,detected_email,detected_phone,actual_email,actual_phone,review_notes
+T00056,Please check invoice 1234567890. I was charged twice.,False,True,False,False,Invoice number; not a phone number.

@@ -1,0 +1,1004 @@
+ticket_id,customer_id,created_at,category,comment
+T00001,UNKNOWN000,2025-10-20T02:41:00,Billing,Could you send me the invoice for this month?
+T00002,UNKNOWN001,2025-07-06T10:01:00,Account,How can I update my account details?
+T00003,UNKNOWN002,2025-11-02T22:33:00,Billing,Could you send me the invoice for this month?
+T00004,UNKNOWN003,2025-04-29T14:32:00,Subscription,How can I upgrade to the Pro plan?
+T00005,UNKNOWN004,2025-12-25T15:15:00,Subscription,How can I upgrade to the Pro plan?
+T00006,UNKNOWN005,2025-09-17T14:50:00,Technical,My dashboard has not updated since yesterday.
+T00007,UNKNOWN006,2026-01-03T22:54:00,Billing,The discount was not applied to my payment.
+T00008,UNKNOWN007,2025-12-13T23:11:00,Technical,The app closes when I try to upload a file.
+T00009,UNKNOWN008,2025-11-12T20:44:00,Billing,The discount was not applied to my payment.
+T00010,UNKNOWN009,2025-12-31T04:18:00,Subscription,How can I upgrade to the Pro plan?
+T00011,C0121,2025-04-16T13:04:00,Technical,I get an error when exporting my report.
+T00012,C0017,2025-07-25T15:21:00,Account,How can I update my account details?
+T00013,C0191,2025-07-14T19:35:00,Subscription,How can I upgrade to the Pro plan?
+T00014,C0272,2025-07-06T10:43:00,Technical,I get an error when exporting my report.
+T00015,C0143,2025-09-05T00:53:00,Account,I would like to close my account.
+T00016,C0096,2025-07-21T13:12:00,Subscription,What features are included in the Premium plan?
+T00017,C0061,2025-10-03T15:13:00,Technical,The app closes when I try to upload a file.
+T00018,C0314,2025-06-05T16:45:00,Technical,The app closes when I try to upload a file.
+T00019,C0063,2025-07-10T15:25:00,Account,I cannot log in after resetting my password.
+T00020,C0461,2025-12-06T23:16:00,Subscription,Please cancel my subscription before renewal.
+T00021,C0342,2025-06-04T02:12:00,Technical,
+T00022,C0278,2025-03-02T05:22:00,Technical,
+T00023,C0364,2025-06-06T17:21:00,Account,
+T00024,C0063,2025-07-18T08:04:00,Account,
+T00025,C0014,2025-08-09T19:32:00,Technical,
+T00026,C0240,2025-06-12T02:56:00,Account,
+T00027,C0159,2025-04-04T17:56:00,Subscription,Please cancel my subscription before renewal.
+T00028,C0394,2025-10-21T02:31:00,Subscription,How can I upgrade to the Pro plan?
+T00029,C0498,2025-10-14T02:31:00,Technical,My dashboard has not updated since yesterday.
+T00030,C0239,2025-06-02T18:49:00,Technical,I get an error when exporting my report.
+T00031,C0301,2025-02-23T14:46:00,Account,I would like to close my account.
+T00032,C0467,2025-09-30T17:41:00,Billing,I was charged twice for my subscription.
+T00033,C0156,2025-06-09T11:00:00,Account,I would like to close my account.
+T00034,C0116,2025-10-29T09:41:00,Technical,The app closes when I try to upload a file.
+T00035,C0129,2025-08-30T18:48:00,Account,How can I update my account details?
+T00036,C0065,2025-10-12T18:12:00,Technical,The app closes when I try to upload a file.
+T00037,C0258,2025-10-14T19:49:00,Account,I cannot log in after resetting my password.
+T00038,C0088,2025-11-03T01:24:00,Technical,The app closes when I try to upload a file.
+T00039,C0042,2026-02-14T19:41:00,Billing,Could you send me the invoice for this month?
+T00040,C0334,2026-02-13T14:13:00,Account,I would like to close my account.
+T00041,C0328,2025-02-30T10:00:00,Billing,The discount was not applied to my payment.
+T00042,C0149,2025-02-30T10:00:00,Technical,I get an error when exporting my report.
+T00043,C0208,2025-02-30T10:00:00,Technical,I get an error when exporting my report.
+T00044,C0031,2025-02-30T10:00:00,Account,How can I update my account details?
+T00045,C0238,2025-04-12T20:42:00,Account,I cannot log in after resetting my password.
+T00046,C0161,2025-05-30T13:36:00,Technical,The app closes when I try to upload a file.
+T00047,C0390,2025-05-26T19:10:00,Technical,The app closes when I try to upload a file.
+T00048,C0164,2025-09-16T04:10:00,Account,How can I update my account details?
+T00049,C0231,2025-12-23T03:18:00,Account,I cannot log in after resetting my password.
+T00050,C0149,2026-02-24T14:16:00,Subscription,How can I upgrade to the Pro plan?
+T00051,C0493,2025-03-05T19:43:00,Account,I would like to close my account.
+T00052,C0161,2025-05-06T17:00:00,Account,I would like to close my account.
+T00053,C0240,2025-05-04T16:58:00,Subscription,How can I upgrade to the Pro plan?
+T00054,C0047,2025-12-21T15:36:00,Subscription,How can I upgrade to the Pro plan?
+T00055,C0111,2025-03-27T01:43:00,Technical,My dashboard has not updated since yesterday.
+T00056,C0254,2026-01-11T18:19:00,Subscription,Please check invoice 1234567890. I was charged twice.
+T00057,C0434,2025-08-30T04:34:00,Billing,Could you send me the invoice for this month?
+T00058,C0373,2025-08-21T12:29:00,Technical,The app closes when I try to upload a file.
+T00059,C0206,2026-02-16T19:10:00,Billing,I was charged twice for my subscription.
+T00060,C0186,2026-01-01T13:11:00,Technical,I get an error when exporting my report.
+T00061,C0231,2026-02-22T23:13:00,Technical,I get an error when exporting my report.
+T00062,C0061,2025-09-12T13:26:00,Account,How can I update my account details?
+T00063,C0407,2025-06-08T12:28:00,Technical,The app closes when I try to upload a file.
+T00064,C0102,2025-03-07T01:22:00,Subscription,How can I upgrade to the Pro plan?
+T00065,C0020,2026-02-06T16:10:00,Account,I would like to close my account. Please call me on +1 202-555-0133.
+T00066,C0234,2025-11-14T17:35:00,Account,I cannot log in after resetting my password.
+T00067,C0168,2025-09-17T13:24:00,Technical,I get an error when exporting my report.
+T00068,C0379,2025-10-22T11:28:00,Technical,I get an error when exporting my report.
+T00069,C0425,2026-02-25T19:12:00,Subscription,Please cancel my subscription before renewal.
+T00070,C0244,2025-03-30T11:18:00,Billing,The discount was not applied to my payment.
+T00071,C0057,2025-07-11T10:30:00,Subscription,What features are included in the Premium plan?
+T00072,C0447,2025-06-24T16:11:00,Billing,Could you send me the invoice for this month?
+T00073,C0496,2025-06-02T19:55:00,Account,How can I update my account details?
+T00074,C0088,2025-09-10T23:14:00,Subscription,How can I upgrade to the Pro plan?
+T00075,C0017,2025-05-24T00:38:00,Billing,Could you send me the invoice for this month?
+T00076,C0161,2025-05-05T14:05:00,Subscription,What features are included in the Premium plan?
+T00077,C0105,2025-05-02T20:52:00,Subscription,Please cancel my subscription before renewal.
+T00078,C0447,2025-07-08T04:42:00,Billing,The discount was not applied to my payment.
+T00079,C0107,2025-06-09T16:19:00,Technical,I get an error when exporting my report.
+T00080,C0193,2025-12-04T15:41:00,Technical,I get an error when exporting my report.
+T00081,C0176,2025-09-23T23:14:00,Technical,I get an error when exporting my report.
+T00082,C0412,2025-12-06T16:31:00,Technical,The app closes when I try to upload a file.
+T00083,C0491,2025-12-25T19:02:00,Account,How can I update my account details?
+T00084,C0116,2025-09-29T07:04:00,Technical,I get an error when exporting my report. Contact me at customer.83@example.com or 2025550150.
+T00085,C0361,2025-08-24T16:22:00,Subscription,Please cancel my subscription before renewal.
+T00086,C0287,2025-12-23T04:09:00,Technical,I get an error when exporting my report. Please reply to customer.85@example.com.
+T00087,C0347,2026-01-24T11:46:00,Subscription,How can I upgrade to the Pro plan?
+T00088,C0149,2026-01-13T02:41:00,Billing,Could you send me the invoice for this month?
+T00089,C0474,2026-01-30T08:45:00,Subscription,What features are included in the Premium plan?
+T00090,C0246,2025-03-13T18:23:00,Account,How can I update my account details?
+T00091,C0478,2025-11-19T03:43:00,Technical,I get an error when exporting my report.
+T00092,C0380,2026-01-12T01:43:00,Account,I would like to close my account.
+T00093,C0464,2025-11-08T07:56:00,Account,I cannot log in after resetting my password.
+T00094,C0052,2025-09-04T16:07:00,Subscription,How can I upgrade to the Pro plan?
+T00095,C0349,2025-01-09T18:47:00,Account,I cannot log in after resetting my password.
+T00096,C0209,2025-07-19T22:12:00,Subscription,How can I upgrade to the Pro plan?
+T00097,C0388,2025-07-20T09:44:00,Technical,I get an error when exporting my report.
+T00098,C0031,2026-01-17T19:35:00,Billing,I was charged twice for my subscription. Please reply to customer.97@example.com.
+T00099,C0274,2025-09-08T14:15:00,Billing,I was charged twice for my subscription.
+T00100,C0479,2025-12-11T16:54:00,Billing,I was charged twice for my subscription.
+T00101,C0480,2025-08-12T00:18:00,Technical,My dashboard has not updated since yesterday.
+T00102,C0291,2025-09-27T09:42:00,Billing,Could you send me the invoice for this month?
+T00103,C0329,2025-03-30T17:12:00,Subscription,Please cancel my subscription before renewal.
+T00104,C0140,2025-03-03T11:17:00,Account,I cannot log in after resetting my password.
+T00105,C0375,2025-05-16T08:46:00,Subscription,What features are included in the Premium plan?
+T00106,C0096,2025-06-28T10:04:00,Billing,The discount was not applied to my payment.
+T00107,C0346,2025-10-26T20:51:00,Account,I would like to close my account. Please call me on 2025550135.
+T00108,C0460,2025-12-30T17:35:00,Subscription,Please cancel my subscription before renewal.
+T00109,C0045,2025-12-02T03:15:00,Subscription,How can I upgrade to the Pro plan? Please call me on (202) 555-0143.
+T00110,C0072,2025-10-15T08:28:00,Subscription,How can I upgrade to the Pro plan?
+T00111,C0134,2025-11-18T15:14:00,Subscription,Please cancel my subscription before renewal.
+T00112,C0489,2025-03-02T19:52:00,Technical,I get an error when exporting my report.
+T00113,C0294,2025-06-08T22:18:00,Billing,Could you send me the invoice for this month?
+T00114,C0355,2025-08-30T22:47:00,Account,I cannot log in after resetting my password.
+T00115,C0239,2025-06-06T13:50:00,Technical,I get an error when exporting my report.
+T00116,C0258,2025-10-27T04:00:00,Technical,I get an error when exporting my report.
+T00117,C0470,2025-04-28T20:58:00,Technical,The app closes when I try to upload a file.
+T00118,C0113,2025-09-29T05:13:00,Account,How can I update my account details?
+T00119,C0383,2025-08-21T23:57:00,Technical,I get an error when exporting my report.
+T00120,C0468,2025-04-20T22:40:00,Subscription,How can I upgrade to the Pro plan?
+T00121,C0391,2025-08-15T20:20:00,Account,I cannot log in after resetting my password.
+T00122,C0270,2026-01-09T12:20:00,Subscription,How can I upgrade to the Pro plan?
+T00123,C0470,2025-03-19T18:41:00,Billing,The discount was not applied to my payment.
+T00124,C0104,2026-01-18T11:11:00,Account,I would like to close my account.
+T00125,C0227,2025-12-21T07:00:00,Billing,The discount was not applied to my payment.
+T00126,C0299,2025-09-04T17:25:00,Subscription,Please cancel my subscription before renewal.
+T00127,C0415,2025-05-13T04:30:00,Billing,The discount was not applied to my payment.
+T00128,C0213,2026-01-09T01:58:00,Subscription,What features are included in the Premium plan?
+T00129,C0237,2025-11-19T13:30:00,Technical,My dashboard has not updated since yesterday.
+T00130,C0419,2025-07-12T19:44:00,Billing,I was charged twice for my subscription.
+T00131,C0024,2026-01-30T23:54:00,Subscription,How can I upgrade to the Pro plan?
+T00132,C0278,2025-01-31T16:06:00,Billing,I was charged twice for my subscription.
+T00133,C0147,2025-09-18T04:37:00,Subscription,What features are included in the Premium plan?
+T00134,C0374,2025-07-14T13:03:00,Subscription,Please cancel my subscription before renewal.
+T00135,C0446,2025-05-21T02:44:00,Subscription,What features are included in the Premium plan?
+T00136,C0494,2025-08-30T11:52:00,Account,I cannot log in after resetting my password.
+T00137,C0092,2025-07-12T04:20:00,Subscription,What features are included in the Premium plan?
+T00138,C0115,2025-01-22T10:11:00,Billing,Could you send me the invoice for this month?
+T00139,C0345,2025-03-11T12:56:00,Subscription,How can I upgrade to the Pro plan?
+T00140,C0127,2025-11-16T05:17:00,Subscription,Please cancel my subscription before renewal.
+T00141,C0097,2025-03-25T22:32:00,Billing,Could you send me the invoice for this month?
+T00142,C0315,2025-08-31T07:02:00,Billing,I was charged twice for my subscription.
+T00143,C0052,2025-09-19T20:24:00,Billing,The discount was not applied to my payment.
+T00144,C0361,2025-08-15T01:30:00,Billing,Could you send me the invoice for this month?
+T00145,C0225,2025-07-16T07:24:00,Account,I cannot log in after resetting my password.
+T00146,C0072,2025-10-03T19:39:00,Technical,My dashboard has not updated since yesterday.
+T00147,C0296,2025-03-12T10:18:00,Technical,The app closes when I try to upload a file.
+T00148,C0339,2025-07-13T10:15:00,Account,How can I update my account details?
+T00149,C0032,2025-05-31T23:10:00,Account,How can I update my account details?
+T00150,C0285,2025-12-27T11:45:00,Subscription,What features are included in the Premium plan?
+T00151,C0344,2025-07-06T10:52:00,Subscription,What features are included in the Premium plan? Please call me on +1 202-555-0139.
+T00152,C0214,2025-03-12T10:14:00,Subscription,Please cancel my subscription before renewal.
+T00153,C0095,2025-07-03T07:41:00,Subscription,Please cancel my subscription before renewal.
+T00154,C0440,2025-08-27T01:58:00,Account,I would like to close my account.
+T00155,C0212,2025-06-19T18:05:00,Subscription,How can I upgrade to the Pro plan?
+T00156,C0199,2025-10-09T06:56:00,Account,How can I update my account details?
+T00157,C0332,2025-09-04T12:39:00,Billing,I was charged twice for my subscription.
+T00158,C0275,2025-06-26T09:09:00,Account,How can I update my account details?
+T00159,C0345,2025-01-11T06:25:00,Billing,The discount was not applied to my payment.
+T00160,C0371,2025-12-12T07:07:00,Account,How can I update my account details?
+T00161,C0156,2025-06-16T06:29:00,Billing,The discount was not applied to my payment.
+T00162,C0061,2025-10-01T23:44:00,Subscription,What features are included in the Premium plan? Please reply to customer.161@example.com.
+T00163,C0361,2025-09-03T08:10:00,Account,I would like to close my account.
+T00164,C0165,2025-12-23T15:54:00,Technical,I get an error when exporting my report.
+T00165,C0333,2025-12-06T08:55:00,Technical,My dashboard has not updated since yesterday.
+T00166,C0263,2026-02-27T03:21:00,Subscription,What features are included in the Premium plan?
+T00167,C0241,2025-06-23T12:39:00,Technical,My dashboard has not updated since yesterday. Please call me on 2025550144.
+T00168,C0212,2025-06-20T07:33:00,Billing,The discount was not applied to my payment.
+T00169,C0075,2026-01-25T18:53:00,Billing,The discount was not applied to my payment.
+T00170,C0297,2026-01-22T05:12:00,Subscription,How can I upgrade to the Pro plan?
+T00171,C0169,2025-03-03T19:26:00,Account,I cannot log in after resetting my password.
+T00172,C0256,2025-07-17T16:40:00,Technical,I get an error when exporting my report.
+T00173,C0329,2025-05-10T05:44:00,Subscription,What features are included in the Premium plan?
+T00174,C0408,2025-03-08T04:46:00,Technical,I get an error when exporting my report.
+T00175,C0280,2025-02-11T18:30:00,Subscription,What features are included in the Premium plan?
+T00176,C0491,2026-01-26T01:09:00,Billing,I was charged twice for my subscription.
+T00177,C0484,2025-09-17T14:04:00,Billing,I was charged twice for my subscription.
+T00178,C0432,2025-05-15T05:09:00,Account,I cannot log in after resetting my password.
+T00179,C0112,2025-09-16T02:03:00,Subscription,What features are included in the Premium plan?
+T00180,C0327,2025-07-17T16:39:00,Subscription,How can I upgrade to the Pro plan? Please call me on 2025550132.
+T00181,C0004,2025-02-18T00:34:00,Subscription,What features are included in the Premium plan?
+T00182,C0370,2025-04-28T09:47:00,Technical,The app closes when I try to upload a file.
+T00183,C0258,2025-08-22T03:39:00,Subscription,How can I upgrade to the Pro plan?
+T00184,C0269,2025-11-09T06:33:00,Account,I would like to close my account.
+T00185,C0270,2025-12-18T09:07:00,Technical,My dashboard has not updated since yesterday.
+T00186,C0041,2025-05-23T15:40:00,Technical,I get an error when exporting my report.
+T00187,C0125,2025-11-30T23:20:00,Account,I cannot log in after resetting my password.
+T00188,C0335,2025-08-08T13:50:00,Billing,Could you send me the invoice for this month?
+T00189,C0194,2025-08-19T21:44:00,Subscription,How can I upgrade to the Pro plan?
+T00190,C0360,2025-12-01T17:03:00,Account,How can I update my account details?
+T00191,C0331,2025-12-14T03:15:00,Technical,I get an error when exporting my report.
+T00192,C0471,2026-01-21T07:12:00,Billing,The discount was not applied to my payment.
+T00193,C0455,2025-12-13T01:35:00,Subscription,How can I upgrade to the Pro plan?
+T00194,C0351,2025-05-08T19:14:00,Technical,I get an error when exporting my report.
+T00195,C0017,2025-06-09T00:32:00,Account,I cannot log in after resetting my password.
+T00196,C0301,2025-03-29T02:37:00,Account,How can I update my account details?
+T00197,C0084,2025-04-24T13:16:00,Account,I would like to close my account. Please reply to customer.196@example.com.
+T00198,C0460,2025-12-25T04:46:00,Technical,I get an error when exporting my report.
+T00199,C0371,2025-12-15T11:48:00,Billing,I was charged twice for my subscription.
+T00200,C0051,2025-05-18T02:35:00,Subscription,Please cancel my subscription before renewal.
+T00201,C0310,2026-01-02T01:00:00,Subscription,What features are included in the Premium plan?
+T00202,C0140,2025-04-20T07:47:00,Subscription,Please cancel my subscription before renewal.
+T00203,C0284,2025-10-23T06:20:00,Subscription,What features are included in the Premium plan?
+T00204,C0300,2025-06-07T21:06:00,Subscription,Please cancel my subscription before renewal.
+T00205,C0409,2025-08-21T02:48:00,Account,How can I update my account details?
+T00206,C0079,2025-11-22T05:15:00,Subscription,What features are included in the Premium plan?
+T00207,C0200,2025-08-09T03:38:00,Technical,The app closes when I try to upload a file.
+T00208,C0003,2025-12-25T12:17:00,Technical,My dashboard has not updated since yesterday. Please reply to customer.207@example.com.
+T00209,C0053,2025-10-03T06:23:00,Account,How can I update my account details?
+T00210,C0230,2025-03-05T00:53:00,Subscription,How can I upgrade to the Pro plan?
+T00211,C0182,2025-06-09T20:24:00,Billing,Could you send me the invoice for this month?
+T00212,C0443,2025-12-11T09:57:00,Subscription,Please cancel my subscription before renewal.
+T00213,C0199,2025-11-17T08:17:00,Billing,The discount was not applied to my payment.
+T00214,C0267,2025-12-14T12:59:00,Account,I cannot log in after resetting my password.
+T00215,C0072,2025-10-12T09:09:00,Technical,My dashboard has not updated since yesterday.
+T00216,C0075,2026-01-13T14:50:00,Billing,Could you send me the invoice for this month?
+T00217,C0216,2026-02-28T02:37:00,Technical,My dashboard has not updated since yesterday.
+T00218,C0129,2025-08-29T16:55:00,Account,I would like to close my account.
+T00219,C0316,2025-12-01T03:39:00,Account,I cannot log in after resetting my password. Please reply to customer.218@example.com.
+T00220,C0156,2025-07-09T11:20:00,Billing,The discount was not applied to my payment.
+T00221,C0195,2025-08-10T11:25:00,Technical,My dashboard has not updated since yesterday.
+T00222,C0418,2025-12-01T10:56:00,Account,I would like to close my account.
+T00223,C0486,2025-09-10T10:43:00,Account,I cannot log in after resetting my password.
+T00224,C0494,2025-07-18T09:56:00,Subscription,What features are included in the Premium plan?
+T00225,C0356,2025-11-15T08:16:00,Subscription,Please cancel my subscription before renewal.
+T00226,C0193,2026-01-01T12:27:00,Technical,The app closes when I try to upload a file.
+T00227,C0478,2026-01-16T18:37:00,Account,I cannot log in after resetting my password.
+T00228,C0350,2025-05-04T07:09:00,Billing,Could you send me the invoice for this month?
+T00229,C0409,2025-11-08T02:21:00,Technical,My dashboard has not updated since yesterday.
+T00230,C0345,2025-01-19T21:37:00,Subscription,Please cancel my subscription before renewal.
+T00231,C0124,2026-01-30T05:15:00,Technical,I get an error when exporting my report.
+T00232,C0217,2025-02-02T15:19:00,Subscription,What features are included in the Premium plan?
+T00233,C0246,2025-04-25T17:17:00,Subscription,What features are included in the Premium plan?
+T00234,C0215,2025-08-19T23:56:00,Billing,The discount was not applied to my payment.
+T00235,C0305,2025-11-02T08:28:00,Billing,The discount was not applied to my payment.
+T00236,C0341,2025-02-01T22:05:00,Technical,I get an error when exporting my report.
+T00237,C0023,2026-01-05T14:41:00,Subscription,How can I upgrade to the Pro plan?
+T00238,C0006,2026-01-01T07:34:00,Billing,The discount was not applied to my payment.
+T00239,C0383,2025-08-25T12:46:00,Account,How can I update my account details?
+T00240,C0238,2025-04-13T00:50:00,Account,How can I update my account details?
+T00241,C0054,2025-06-18T02:55:00,Technical,The app closes when I try to upload a file.
+T00242,C0426,2025-10-31T10:38:00,Account,How can I update my account details?
+T00243,C0234,2025-11-03T16:29:00,Account,How can I update my account details?
+T00244,C0244,2025-04-08T23:46:00,Billing,Could you send me the invoice for this month?
+T00245,C0164,2025-08-26T01:31:00,Billing,The discount was not applied to my payment.
+T00246,C0059,2026-01-21T22:07:00,Billing,I was charged twice for my subscription.
+T00247,C0347,2026-01-05T17:36:00,Account,I cannot log in after resetting my password.
+T00248,C0283,2025-09-09T19:06:00,Account,How can I update my account details?
+T00249,C0491,2025-12-19T13:49:00,Subscription,What features are included in the Premium plan?
+T00250,C0095,2025-08-23T22:26:00,Account,How can I update my account details?
+T00251,C0203,2025-12-29T06:44:00,Billing,Could you send me the invoice for this month?
+T00252,C0304,2025-10-24T00:09:00,Subscription,What features are included in the Premium plan?
+T00253,C0110,2025-08-05T02:08:00,Account,I would like to close my account.
+T00254,C0053,2025-11-07T11:07:00,Account,I cannot log in after resetting my password.
+T00255,C0235,2025-06-30T22:53:00,Billing,Could you send me the invoice for this month?
+T00256,C0271,2025-08-06T13:15:00,Technical,I get an error when exporting my report. Please reply to customer.255@example.com.
+T00257,C0201,2025-11-25T12:00:00,Billing,Could you send me the invoice for this month?
+T00258,C0317,2025-08-14T10:09:00,Account,I would like to close my account.
+T00259,C0303,2025-11-16T04:34:00,Billing,Could you send me the invoice for this month? Contact me at customer.258@example.com or (202) 555-0158.
+T00260,C0061,2025-10-09T03:59:00,Account,I cannot log in after resetting my password.
+T00261,C0192,2025-10-15T13:15:00,Account,How can I update my account details?
+T00262,C0306,2026-03-08T13:05:00,Account,How can I update my account details?
+T00263,C0096,2025-08-05T18:20:00,Subscription,What features are included in the Premium plan?
+T00264,C0471,2026-03-04T05:41:00,Account,How can I update my account details?
+T00265,C0148,2025-03-27T10:44:00,Account,How can I update my account details?
+T00266,C0318,2025-07-16T00:19:00,Billing,Could you send me the invoice for this month?
+T00267,C0070,2026-01-18T19:10:00,Account,I would like to close my account. Contact me at customer.266@example.com or +1 202-555-0157.
+T00268,C0335,2025-09-18T23:22:00,Subscription,Please cancel my subscription before renewal.
+T00269,C0213,2025-12-30T05:42:00,Subscription,How can I upgrade to the Pro plan?
+T00270,C0290,2025-03-16T09:58:00,Billing,I was charged twice for my subscription.
+T00271,C0141,2025-06-19T09:51:00,Account,I cannot log in after resetting my password.
+T00272,C0400,2025-06-11T16:54:00,Subscription,What features are included in the Premium plan? Please reply to customer.271@example.com.
+T00273,C0262,2025-05-16T03:53:00,Billing,Could you send me the invoice for this month?
+T00274,C0397,2025-03-14T01:25:00,Technical,I get an error when exporting my report.
+T00275,C0226,2025-12-31T03:29:00,Account,I would like to close my account.
+T00276,C0425,2026-01-04T01:06:00,Account,How can I update my account details? Contact me at customer.275@example.com or (202) 555-0155.
+T00277,C0135,2025-01-12T14:59:00,Technical,The app closes when I try to upload a file.
+T00278,C0398,2025-04-07T20:04:00,Account,I would like to close my account.
+T00279,C0180,2025-05-13T21:01:00,Subscription,How can I upgrade to the Pro plan?
+T00280,C0402,2026-01-04T02:01:00,Account,I would like to close my account.
+T00281,C0180,2025-07-07T18:23:00,Technical,The app closes when I try to upload a file.
+T00282,C0166,2025-06-26T19:32:00,Technical,My dashboard has not updated since yesterday.
+T00283,C0488,2025-11-11T14:02:00,Billing,I was charged twice for my subscription.
+T00284,C0142,2025-08-03T04:31:00,Account,I cannot log in after resetting my password.
+T00285,C0075,2026-01-23T23:04:00,Technical,My dashboard has not updated since yesterday.
+T00286,C0251,2025-11-10T21:35:00,Account,How can I update my account details?
+T00287,C0322,2025-07-03T15:25:00,Subscription,How can I upgrade to the Pro plan?
+T00288,C0325,2026-02-01T17:35:00,Billing,The discount was not applied to my payment.
+T00289,C0143,2025-10-19T16:39:00,Technical,My dashboard has not updated since yesterday.
+T00290,C0298,2025-03-26T15:38:00,Billing,The discount was not applied to my payment.
+T00291,C0341,2025-01-19T18:14:00,Technical,My dashboard has not updated since yesterday.
+T00292,C0112,2025-08-27T16:53:00,Subscription,Please cancel my subscription before renewal.
+T00293,C0166,2025-07-02T18:40:00,Technical,I get an error when exporting my report.
+T00294,C0067,2025-09-30T23:17:00,Subscription,How can I upgrade to the Pro plan?
+T00295,C0024,2026-03-07T15:41:00,Billing,I was charged twice for my subscription.
+T00296,C0064,2025-03-25T15:34:00,Account,I cannot log in after resetting my password.
+T00297,C0491,2025-12-15T23:30:00,Subscription,How can I upgrade to the Pro plan?
+T00298,C0452,2025-04-23T09:21:00,Technical,The app closes when I try to upload a file.
+T00299,C0336,2025-05-24T02:48:00,Technical,My dashboard has not updated since yesterday.
+T00300,C0341,2025-01-17T13:31:00,Account,I would like to close my account.
+T00301,C0157,2025-04-06T22:22:00,Account,I cannot log in after resetting my password.
+T00302,C0361,2025-07-15T07:17:00,Billing,Could you send me the invoice for this month?
+T00303,C0040,2025-03-18T07:43:00,Account,I would like to close my account.
+T00304,C0349,2025-01-10T00:16:00,Subscription,What features are included in the Premium plan?
+T00305,C0176,2025-08-22T23:41:00,Billing,I was charged twice for my subscription.
+T00306,C0245,2025-07-14T13:04:00,Billing,I was charged twice for my subscription.
+T00307,C0375,2025-03-08T10:41:00,Billing,Could you send me the invoice for this month?
+T00308,C0452,2025-04-20T13:03:00,Technical,The app closes when I try to upload a file.
+T00309,C0329,2025-03-21T18:06:00,Account,I would like to close my account.
+T00310,C0005,2025-12-31T11:59:00,Account,I would like to close my account.
+T00311,C0110,2025-08-22T21:01:00,Account,I would like to close my account.
+T00312,C0227,2025-10-06T03:25:00,Account,I cannot log in after resetting my password.
+T00313,C0386,2025-12-13T13:06:00,Billing,Could you send me the invoice for this month?
+T00314,C0494,2025-07-18T04:46:00,Subscription,How can I upgrade to the Pro plan?
+T00315,C0142,2025-06-06T18:53:00,Billing,The discount was not applied to my payment.
+T00316,C0308,2026-02-03T00:54:00,Technical,I get an error when exporting my report.
+T00317,C0449,2025-10-30T17:40:00,Technical,I get an error when exporting my report.
+T00318,C0261,2025-04-28T10:05:00,Account,I would like to close my account.
+T00319,C0028,2026-01-28T13:10:00,Account,I cannot log in after resetting my password.
+T00320,C0124,2026-01-27T20:16:00,Subscription,How can I upgrade to the Pro plan?
+T00321,C0271,2025-07-07T10:48:00,Billing,I was charged twice for my subscription.
+T00322,C0199,2025-10-23T18:38:00,Subscription,What features are included in the Premium plan?
+T00323,C0089,2025-09-01T00:34:00,Subscription,What features are included in the Premium plan?
+T00324,C0035,2025-08-19T07:21:00,Billing,I was charged twice for my subscription.
+T00325,C0473,2025-07-01T17:17:00,Billing,Could you send me the invoice for this month?
+T00326,C0322,2025-07-09T23:57:00,Subscription,Please cancel my subscription before renewal.
+T00327,C0043,2025-04-24T02:51:00,Account,How can I update my account details?
+T00328,C0041,2025-04-21T18:18:00,Account,How can I update my account details?
+T00329,C0201,2025-11-20T23:50:00,Billing,Could you send me the invoice for this month?
+T00330,C0374,2025-06-04T08:20:00,Account,I cannot log in after resetting my password.
+T00331,C0474,2025-11-22T15:28:00,Subscription,What features are included in the Premium plan?
+T00332,C0312,2025-12-27T22:44:00,Billing,The discount was not applied to my payment.
+T00333,C0337,2025-07-20T00:25:00,Account,I would like to close my account.
+T00334,C0071,2025-05-22T16:56:00,Billing,Could you send me the invoice for this month?
+T00335,C0268,2025-09-26T12:41:00,Technical,The app closes when I try to upload a file.
+T00336,C0384,2025-11-01T01:00:00,Technical,My dashboard has not updated since yesterday.
+T00337,C0414,2025-12-31T17:52:00,Subscription,How can I upgrade to the Pro plan?
+T00338,C0135,2025-03-05T15:32:00,Billing,The discount was not applied to my payment.
+T00339,C0185,2026-01-02T19:20:00,Billing,I was charged twice for my subscription.
+T00340,C0189,2025-10-19T03:30:00,Account,I would like to close my account.
+T00341,C0346,2025-11-02T17:22:00,Billing,I was charged twice for my subscription.
+T00342,C0023,2025-12-25T01:34:00,Billing,Could you send me the invoice for this month?
+T00343,C0187,2025-11-05T06:06:00,Subscription,How can I upgrade to the Pro plan?
+T00344,C0284,2025-09-26T10:59:00,Subscription,How can I upgrade to the Pro plan?
+T00345,C0214,2025-03-27T02:39:00,Technical,I get an error when exporting my report.
+T00346,C0191,2025-09-07T22:58:00,Billing,I was charged twice for my subscription.
+T00347,C0092,2025-07-11T01:34:00,Account,How can I update my account details?
+T00348,C0036,2025-11-03T10:36:00,Subscription,Please cancel my subscription before renewal.
+T00349,C0045,2025-09-09T12:35:00,Subscription,How can I upgrade to the Pro plan?
+T00350,C0150,2025-08-30T08:16:00,Technical,My dashboard has not updated since yesterday.
+T00351,C0189,2025-10-12T18:39:00,Subscription,How can I upgrade to the Pro plan?
+T00352,C0078,2025-08-01T00:48:00,Billing,I was charged twice for my subscription.
+T00353,C0278,2025-04-14T23:40:00,Technical,The app closes when I try to upload a file.
+T00354,C0487,2025-02-04T22:26:00,Technical,My dashboard has not updated since yesterday.
+T00355,C0435,2025-08-11T07:00:00,Technical,I get an error when exporting my report.
+T00356,C0122,2025-07-17T02:02:00,Subscription,How can I upgrade to the Pro plan? Contact me at customer.355@example.com or 2025550159.
+T00357,C0365,2025-08-11T01:29:00,Technical,The app closes when I try to upload a file.
+T00358,C0460,2026-02-03T12:42:00,Subscription,Please cancel my subscription before renewal.
+T00359,C0499,2025-09-05T03:15:00,Billing,The discount was not applied to my payment.
+T00360,C0069,2025-08-24T20:12:00,Subscription,What features are included in the Premium plan?
+T00361,C0032,2025-06-04T04:27:00,Subscription,How can I upgrade to the Pro plan?
+T00362,C0150,2025-07-22T13:24:00,Technical,I get an error when exporting my report.
+T00363,C0426,2025-10-27T15:27:00,Technical,My dashboard has not updated since yesterday.
+T00364,C0120,2026-01-08T04:38:00,Billing,The discount was not applied to my payment.
+T00365,C0056,2025-05-06T05:36:00,Account,How can I update my account details?
+T00366,C0239,2025-07-08T04:07:00,Technical,I get an error when exporting my report.
+T00367,C0184,2025-09-18T10:31:00,Account,How can I update my account details?
+T00368,C0136,2025-08-20T05:22:00,Billing,The discount was not applied to my payment.
+T00369,C0156,2025-06-16T11:11:00,Billing,I was charged twice for my subscription.
+T00370,C0047,2025-12-02T13:31:00,Account,I would like to close my account.
+T00371,C0026,2025-03-08T05:56:00,Technical,The app closes when I try to upload a file.
+T00372,C0488,2025-12-21T18:58:00,Subscription,What features are included in the Premium plan?
+T00373,C0282,2025-10-09T15:46:00,Account,I cannot log in after resetting my password.
+T00374,C0412,2025-10-04T00:24:00,Account,I cannot log in after resetting my password.
+T00375,C0426,2025-10-03T06:45:00,Account,How can I update my account details?
+T00376,C0191,2025-09-17T20:00:00,Billing,Could you send me the invoice for this month?
+T00377,C0470,2025-03-14T02:12:00,Billing,I was charged twice for my subscription.
+T00378,C0463,2025-06-11T03:08:00,Subscription,Please cancel my subscription before renewal.
+T00379,C0063,2025-08-29T01:43:00,Billing,I was charged twice for my subscription.
+T00380,C0474,2025-12-28T16:56:00,Subscription,How can I upgrade to the Pro plan? Please reply to customer.379@example.com.
+T00381,C0196,2025-09-10T12:04:00,Subscription,How can I upgrade to the Pro plan? Please call me on (202) 555-0134.
+T00382,C0466,2025-02-18T09:33:00,Account,How can I update my account details? Please call me on (202) 555-0149.
+T00383,C0453,2025-08-17T20:57:00,Account,I would like to close my account.
+T00384,C0316,2025-12-25T10:04:00,Account,How can I update my account details?
+T00385,C0211,2025-03-10T02:59:00,Subscription,Please cancel my subscription before renewal.
+T00386,C0197,2026-01-01T06:48:00,Account,I would like to close my account.
+T00387,C0453,2025-11-01T18:33:00,Account,I cannot log in after resetting my password.
+T00388,C0196,2025-10-19T18:35:00,Technical,My dashboard has not updated since yesterday.
+T00389,C0177,2025-03-06T09:13:00,Technical,The app closes when I try to upload a file.
+T00390,C0014,2025-08-15T07:28:00,Technical,The app closes when I try to upload a file.
+T00391,C0459,2025-10-05T16:06:00,Technical,I get an error when exporting my report. Contact me at customer.390@example.com or 2025550156.
+T00392,C0184,2025-08-12T03:25:00,Account,I cannot log in after resetting my password.
+T00393,C0337,2025-08-08T18:12:00,Account,I would like to close my account.
+T00394,C0029,2025-05-25T13:15:00,Account,How can I update my account details?
+T00395,C0479,2025-11-13T08:04:00,Account,I would like to close my account.
+T00396,C0163,2025-11-16T00:57:00,Technical,I get an error when exporting my report.
+T00397,C0359,2025-04-16T19:14:00,Technical,The app closes when I try to upload a file.
+T00398,C0289,2026-01-22T18:30:00,Account,How can I update my account details? Please reply to customer.397@example.com.
+T00399,C0090,2025-02-11T03:04:00,Subscription,How can I upgrade to the Pro plan?
+T00400,C0120,2025-12-16T17:58:00,Account,How can I update my account details?
+T00401,C0001,2025-08-07T06:52:00,Technical,The app closes when I try to upload a file.
+T00402,C0175,2025-10-09T02:01:00,Account,I cannot log in after resetting my password.
+T00403,C0076,2025-04-04T17:57:00,Account,How can I update my account details?
+T00404,C0492,2025-10-09T22:36:00,Billing,Could you send me the invoice for this month? Please call me on (202) 555-0140.
+T00405,C0301,2025-03-22T10:18:00,Billing,Could you send me the invoice for this month?
+T00406,C0070,2026-01-24T21:49:00,Account,How can I update my account details?
+T00407,C0333,2025-11-19T19:10:00,Technical,I get an error when exporting my report.
+T00408,C0456,2025-10-29T22:43:00,Technical,I get an error when exporting my report.
+T00409,C0418,2025-12-11T10:28:00,Account,I would like to close my account.
+T00410,C0353,2025-03-13T06:03:00,Technical,I get an error when exporting my report.
+T00411,C0001,2025-08-01T01:06:00,Subscription,How can I upgrade to the Pro plan? Please reply to customer.410@example.com.
+T00412,C0309,2025-07-15T07:32:00,Technical,I get an error when exporting my report.
+T00413,C0290,2025-04-20T04:48:00,Billing,Could you send me the invoice for this month?
+T00414,C0382,2025-05-03T11:50:00,Billing,Could you send me the invoice for this month?
+T00415,C0086,2026-03-09T22:52:00,Billing,The discount was not applied to my payment.
+T00416,C0374,2025-07-24T00:23:00,Technical,My dashboard has not updated since yesterday.
+T00417,C0108,2025-09-03T02:18:00,Account,How can I update my account details?
+T00418,C0132,2025-03-07T01:38:00,Billing,Could you send me the invoice for this month?
+T00419,C0225,2025-05-29T14:07:00,Subscription,Please cancel my subscription before renewal.
+T00420,C0452,2025-05-17T18:38:00,Subscription,Please cancel my subscription before renewal.
+T00421,C0052,2025-10-05T22:13:00,Subscription,What features are included in the Premium plan?
+T00422,C0116,2025-10-20T02:30:00,Account,I cannot log in after resetting my password.
+T00423,C0151,2025-09-16T08:54:00,Billing,I was charged twice for my subscription.
+T00424,C0038,2025-06-07T12:48:00,Technical,The app closes when I try to upload a file.
+T00425,C0375,2025-05-04T03:10:00,Billing,Could you send me the invoice for this month?
+T00426,C0305,2026-01-18T01:03:00,Subscription,Please cancel my subscription before renewal.
+T00427,C0483,2025-09-19T14:49:00,Account,I cannot log in after resetting my password.
+T00428,C0028,2026-01-07T07:00:00,Billing,I was charged twice for my subscription.
+T00429,C0210,2025-05-26T09:36:00,Technical,My dashboard has not updated since yesterday.
+T00430,C0122,2025-05-22T13:24:00,Billing,The discount was not applied to my payment.
+T00431,C0282,2025-10-16T01:51:00,Subscription,Please cancel my subscription before renewal.
+T00432,C0002,2025-03-05T10:03:00,Subscription,What features are included in the Premium plan?
+T00433,C0321,2025-08-01T03:18:00,Subscription,How can I upgrade to the Pro plan?
+T00434,C0106,2025-04-10T09:57:00,Account,I cannot log in after resetting my password.
+T00435,C0243,2025-10-23T13:34:00,Billing,Could you send me the invoice for this month?
+T00436,C0251,2025-09-09T21:54:00,Technical,I get an error when exporting my report.
+T00437,C0199,2025-10-24T13:01:00,Account,How can I update my account details?
+T00438,C0096,2025-05-21T08:59:00,Subscription,Please cancel my subscription before renewal.
+T00439,C0239,2025-06-14T09:10:00,Technical,I get an error when exporting my report.
+T00440,C0032,2025-06-09T22:46:00,Account,I cannot log in after resetting my password.
+T00441,C0044,2025-12-07T14:07:00,Technical,I get an error when exporting my report.
+T00442,C0117,2025-06-13T17:50:00,Billing,Could you send me the invoice for this month?
+T00443,C0495,2025-11-12T08:02:00,Subscription,Please cancel my subscription before renewal.
+T00444,C0154,2026-01-06T01:11:00,Billing,The discount was not applied to my payment.
+T00445,C0293,2025-07-18T15:19:00,Account,I cannot log in after resetting my password.
+T00446,C0486,2025-08-07T06:34:00,Account,I cannot log in after resetting my password.
+T00447,C0022,2025-04-04T23:19:00,Subscription,Please cancel my subscription before renewal.
+T00448,C0104,2026-03-14T08:48:00,Account,How can I update my account details?
+T00449,C0467,2025-09-26T13:14:00,Billing,The discount was not applied to my payment.
+T00450,C0204,2025-09-22T17:44:00,Technical,My dashboard has not updated since yesterday.
+T00451,C0470,2025-06-09T21:16:00,Billing,The discount was not applied to my payment.
+T00452,C0268,2025-09-19T14:08:00,Subscription,How can I upgrade to the Pro plan?
+T00453,C0076,2025-04-03T19:12:00,Billing,I was charged twice for my subscription.
+T00454,C0403,2025-03-31T11:44:00,Technical,My dashboard has not updated since yesterday.
+T00455,C0136,2025-10-31T16:34:00,Subscription,What features are included in the Premium plan?
+T00456,C0312,2025-11-22T05:52:00,Subscription,Please cancel my subscription before renewal.
+T00457,C0207,2025-12-29T20:46:00,Account,I would like to close my account.
+T00458,C0356,2025-09-07T13:30:00,Subscription,Please cancel my subscription before renewal.
+T00459,C0354,2025-11-17T16:13:00,Account,How can I update my account details? Please reply to customer.458@example.com.
+T00460,C0460,2025-11-08T11:31:00,Technical,My dashboard has not updated since yesterday.
+T00461,C0160,2025-12-06T23:45:00,Technical,I get an error when exporting my report.
+T00462,C0051,2025-05-06T10:15:00,Account,I would like to close my account.
+T00463,C0227,2025-10-29T14:13:00,Technical,I get an error when exporting my report.
+T00464,C0331,2025-10-27T15:04:00,Billing,I was charged twice for my subscription.
+T00465,C0468,2025-04-14T17:37:00,Subscription,Please cancel my subscription before renewal.
+T00466,C0421,2026-01-24T05:25:00,Billing,I was charged twice for my subscription.
+T00467,C0160,2025-10-22T17:53:00,Subscription,What features are included in the Premium plan?
+T00468,C0015,2025-11-16T06:51:00,Account,I cannot log in after resetting my password.
+T00469,C0128,2025-10-06T01:43:00,Billing,Could you send me the invoice for this month?
+T00470,C0361,2025-08-19T12:34:00,Account,How can I update my account details?
+T00471,C0259,2025-09-24T04:13:00,Subscription,What features are included in the Premium plan?
+T00472,C0016,2026-01-21T16:41:00,Account,I would like to close my account.
+T00473,C0229,2025-12-18T20:01:00,Account,I would like to close my account.
+T00474,C0180,2025-05-12T08:49:00,Technical,I get an error when exporting my report.
+T00475,C0426,2025-10-23T00:56:00,Billing,Could you send me the invoice for this month?
+T00476,C0026,2025-04-17T07:18:00,Account,I cannot log in after resetting my password.
+T00477,C0332,2025-10-03T07:03:00,Account,How can I update my account details?
+T00478,C0334,2026-02-05T00:41:00,Subscription,What features are included in the Premium plan?
+T00479,C0005,2025-11-21T22:05:00,Subscription,How can I upgrade to the Pro plan?
+T00480,C0308,2025-12-05T08:36:00,Billing,The discount was not applied to my payment.
+T00481,C0413,2025-12-18T21:56:00,Technical,My dashboard has not updated since yesterday.
+T00482,C0217,2025-03-09T15:40:00,Subscription,Please cancel my subscription before renewal.
+T00483,C0112,2025-09-07T23:06:00,Subscription,What features are included in the Premium plan?
+T00484,C0423,2025-08-21T03:29:00,Subscription,How can I upgrade to the Pro plan?
+T00485,C0262,2025-05-14T22:05:00,Technical,I get an error when exporting my report.
+T00486,C0312,2025-12-26T23:21:00,Technical,The app closes when I try to upload a file.
+T00487,C0247,2025-02-23T09:26:00,Billing,The discount was not applied to my payment.
+T00488,C0167,2025-08-21T22:23:00,Technical,I get an error when exporting my report.
+T00489,C0488,2025-11-18T05:07:00,Technical,I get an error when exporting my report.
+T00490,C0392,2025-11-14T20:28:00,Account,How can I update my account details?
+T00491,C0339,2025-08-17T04:46:00,Technical,I get an error when exporting my report.
+T00492,C0014,2025-07-07T08:51:00,Subscription,Please cancel my subscription before renewal.
+T00493,C0208,2025-10-13T19:54:00,Subscription,What features are included in the Premium plan?
+T00494,C0293,2025-08-15T07:35:00,Account,I would like to close my account.
+T00495,C0274,2025-11-10T12:14:00,Subscription,What features are included in the Premium plan?
+T00496,C0154,2026-02-09T19:03:00,Account,I cannot log in after resetting my password.
+T00497,C0151,2025-10-06T04:22:00,Billing,The discount was not applied to my payment.
+T00498,C0133,2026-03-10T11:27:00,Account,I would like to close my account.
+T00499,C0046,2025-07-22T07:37:00,Account,I would like to close my account.
+T00500,C0447,2025-06-01T11:18:00,Technical,My dashboard has not updated since yesterday.
+T00501,C0134,2025-12-17T04:01:00,Technical,My dashboard has not updated since yesterday.
+T00502,C0028,2026-01-25T06:38:00,Billing,The discount was not applied to my payment.
+T00503,C0062,2025-06-14T10:11:00,Subscription,Please cancel my subscription before renewal.
+T00504,C0028,2025-12-13T06:50:00,Account,How can I update my account details?
+T00505,C0210,2025-03-21T10:47:00,Subscription,What features are included in the Premium plan?
+T00506,C0093,2025-10-14T11:21:00,Billing,The discount was not applied to my payment.
+T00507,C0091,2025-08-05T01:58:00,Technical,The app closes when I try to upload a file.
+T00508,C0232,2025-04-25T05:45:00,Technical,I get an error when exporting my report.
+T00509,C0392,2026-01-08T03:00:00,Account,I cannot log in after resetting my password.
+T00510,C0315,2025-10-21T14:39:00,Subscription,Please cancel my subscription before renewal.
+T00511,C0220,2025-10-22T00:09:00,Subscription,How can I upgrade to the Pro plan?
+T00512,C0274,2025-10-03T00:28:00,Account,How can I update my account details?
+T00513,C0388,2025-06-11T23:05:00,Account,I cannot log in after resetting my password.
+T00514,C0321,2025-08-04T23:40:00,Account,How can I update my account details?
+T00515,C0160,2025-10-18T13:05:00,Account,I would like to close my account.
+T00516,C0302,2025-06-24T02:13:00,Technical,The app closes when I try to upload a file.
+T00517,C0153,2026-01-20T17:45:00,Technical,I get an error when exporting my report.
+T00518,C0269,2025-12-04T23:26:00,Technical,The app closes when I try to upload a file.
+T00519,C0176,2025-08-13T06:25:00,Subscription,How can I upgrade to the Pro plan?
+T00520,C0486,2025-07-13T07:47:00,Subscription,How can I upgrade to the Pro plan?
+T00521,C0373,2025-07-28T00:44:00,Account,I would like to close my account.
+T00522,C0259,2025-07-20T12:30:00,Account,I would like to close my account.
+T00523,C0334,2026-01-19T21:51:00,Billing,Could you send me the invoice for this month?
+T00524,C0395,2025-11-22T01:38:00,Billing,The discount was not applied to my payment.
+T00525,C0056,2025-04-29T23:32:00,Billing,I was charged twice for my subscription.
+T00526,C0214,2025-04-10T04:13:00,Subscription,What features are included in the Premium plan?
+T00527,C0130,2025-12-15T05:13:00,Subscription,How can I upgrade to the Pro plan?
+T00528,C0356,2025-10-11T14:21:00,Billing,The discount was not applied to my payment.
+T00529,C0052,2025-10-11T20:40:00,Technical,I get an error when exporting my report.
+T00530,C0071,2025-05-15T17:27:00,Subscription,What features are included in the Premium plan?
+T00531,C0317,2025-06-25T03:53:00,Billing,I was charged twice for my subscription.
+T00532,C0255,2025-11-06T06:49:00,Account,How can I update my account details?
+T00533,C0426,2025-11-01T13:59:00,Account,How can I update my account details?
+T00534,C0083,2026-01-02T16:56:00,Billing,I was charged twice for my subscription. Please reply to customer.533@example.com.
+T00535,C0353,2025-04-08T08:00:00,Subscription,How can I upgrade to the Pro plan?
+T00536,C0007,2025-05-07T19:35:00,Billing,The discount was not applied to my payment.
+T00537,C0253,2025-06-29T17:27:00,Account,I cannot log in after resetting my password.
+T00538,C0371,2025-11-13T21:59:00,Billing,I was charged twice for my subscription.
+T00539,C0234,2025-10-01T15:50:00,Technical,The app closes when I try to upload a file.
+T00540,C0052,2025-07-29T09:55:00,Account,How can I update my account details?
+T00541,C0411,2025-06-17T03:57:00,Technical,The app closes when I try to upload a file.
+T00542,C0436,2025-11-21T04:43:00,Billing,The discount was not applied to my payment. Please call me on 2025550141.
+T00543,C0332,2025-08-20T12:12:00,Account,How can I update my account details?
+T00544,C0490,2025-12-07T12:43:00,Technical,My dashboard has not updated since yesterday.
+T00545,C0094,2026-01-21T13:39:00,Billing,Could you send me the invoice for this month?
+T00546,C0140,2025-05-16T16:19:00,Subscription,Please cancel my subscription before renewal.
+T00547,C0333,2025-11-11T04:31:00,Account,I would like to close my account.
+T00548,C0372,2025-11-04T03:32:00,Billing,Could you send me the invoice for this month?
+T00549,C0467,2025-11-26T23:09:00,Subscription,Please cancel my subscription before renewal.
+T00550,C0093,2025-09-27T20:52:00,Subscription,How can I upgrade to the Pro plan?
+T00551,C0442,2025-12-14T16:39:00,Account,I cannot log in after resetting my password.
+T00552,C0455,2026-01-04T01:34:00,Subscription,How can I upgrade to the Pro plan?
+T00553,C0134,2025-10-20T23:08:00,Technical,I get an error when exporting my report.
+T00554,C0393,2025-07-15T11:32:00,Account,I would like to close my account.
+T00555,C0268,2025-10-30T22:35:00,Billing,The discount was not applied to my payment.
+T00556,C0128,2025-09-22T22:39:00,Subscription,What features are included in the Premium plan?
+T00557,C0329,2025-04-01T19:03:00,Subscription,What features are included in the Premium plan?
+T00558,C0028,2026-02-16T05:21:00,Billing,The discount was not applied to my payment. Please reply to customer.557@example.com.
+T00559,C0435,2025-09-30T05:38:00,Subscription,How can I upgrade to the Pro plan? Please reply to customer.558@example.com.
+T00560,C0385,2025-04-24T08:13:00,Subscription,Please cancel my subscription before renewal.
+T00561,C0497,2025-05-26T17:18:00,Technical,The app closes when I try to upload a file.
+T00562,C0282,2025-11-17T08:01:00,Subscription,How can I upgrade to the Pro plan?
+T00563,C0236,2025-04-20T15:17:00,Subscription,How can I upgrade to the Pro plan?
+T00564,C0439,2025-08-16T10:47:00,Subscription,How can I upgrade to the Pro plan?
+T00565,C0255,2025-09-03T13:46:00,Billing,Could you send me the invoice for this month?
+T00566,C0019,2025-07-20T20:37:00,Billing,The discount was not applied to my payment.
+T00567,C0327,2025-06-28T19:11:00,Technical,The app closes when I try to upload a file.
+T00568,C0336,2025-06-04T12:24:00,Subscription,How can I upgrade to the Pro plan?
+T00569,C0419,2025-08-12T11:19:00,Account,I would like to close my account.
+T00570,C0393,2025-07-14T12:24:00,Subscription,What features are included in the Premium plan?
+T00571,C0232,2025-04-11T22:29:00,Billing,I was charged twice for my subscription.
+T00572,C0002,2025-04-08T21:37:00,Technical,My dashboard has not updated since yesterday.
+T00573,C0281,2025-09-16T03:37:00,Technical,The app closes when I try to upload a file.
+T00574,C0460,2026-01-08T04:47:00,Account,I would like to close my account.
+T00575,C0381,2025-11-21T08:40:00,Subscription,What features are included in the Premium plan?
+T00576,C0101,2025-12-06T13:24:00,Account,I cannot log in after resetting my password. Please reply to customer.575@example.com.
+T00577,C0235,2025-07-10T03:40:00,Account,How can I update my account details?
+T00578,C0024,2026-02-12T15:36:00,Billing,The discount was not applied to my payment.
+T00579,C0302,2025-08-05T00:08:00,Account,I would like to close my account.
+T00580,C0377,2025-05-06T14:46:00,Billing,The discount was not applied to my payment.
+T00581,C0248,2025-04-19T19:44:00,Account,I cannot log in after resetting my password.
+T00582,C0375,2025-03-08T13:13:00,Account,I would like to close my account. Please reply to customer.581@example.com.
+T00583,C0308,2026-01-10T13:07:00,Technical,My dashboard has not updated since yesterday.
+T00584,C0312,2025-12-23T13:34:00,Account,How can I update my account details?
+T00585,C0497,2025-07-16T04:33:00,Technical,The app closes when I try to upload a file.
+T00586,C0212,2025-07-07T18:41:00,Technical,My dashboard has not updated since yesterday.
+T00587,C0365,2025-08-25T07:09:00,Account,I would like to close my account.
+T00588,C0366,2025-10-27T11:47:00,Technical,I get an error when exporting my report.
+T00589,C0068,2025-07-26T18:31:00,Account,I would like to close my account.
+T00590,C0327,2025-07-23T03:56:00,Technical,My dashboard has not updated since yesterday.
+T00591,C0288,2025-04-03T19:28:00,Subscription,What features are included in the Premium plan?
+T00592,C0364,2025-07-16T18:13:00,Subscription,Please cancel my subscription before renewal. Please reply to customer.591@example.com.
+T00593,C0450,2025-12-06T17:50:00,Subscription,How can I upgrade to the Pro plan?
+T00594,C0013,2025-03-23T01:48:00,Subscription,What features are included in the Premium plan?
+T00595,C0029,2025-04-16T05:29:00,Account,How can I update my account details?
+T00596,C0350,2025-03-24T02:07:00,Technical,I get an error when exporting my report.
+T00597,C0402,2026-01-04T18:28:00,Technical,The app closes when I try to upload a file. Please call me on +1 202-555-0145.
+T00598,C0184,2025-08-05T21:01:00,Subscription,What features are included in the Premium plan? Please call me on (202) 555-0131.
+T00599,C0379,2025-10-29T19:09:00,Account,How can I update my account details?
+T00600,C0122,2025-08-12T22:40:00,Technical,The app closes when I try to upload a file. Please reply to customer.599@example.com.
+T00601,C0475,2025-07-16T14:13:00,Subscription,What features are included in the Premium plan?
+T00602,C0161,2025-04-17T08:34:00,Billing,I was charged twice for my subscription.
+T00603,C0318,2025-06-29T21:37:00,Subscription,What features are included in the Premium plan?
+T00604,C0364,2025-07-05T18:39:00,Technical,I get an error when exporting my report.
+T00605,C0309,2025-05-22T10:02:00,Account,How can I update my account details?
+T00606,C0091,2025-06-08T05:55:00,Billing,The discount was not applied to my payment.
+T00607,C0264,2025-02-25T01:23:00,Billing,Could you send me the invoice for this month?
+T00608,C0143,2025-09-07T05:29:00,Technical,I get an error when exporting my report.
+T00609,C0434,2025-07-06T11:16:00,Technical,My dashboard has not updated since yesterday.
+T00610,C0364,2025-04-26T05:14:00,Account,How can I update my account details?
+T00611,C0306,2026-03-15T21:00:00,Billing,The discount was not applied to my payment.
+T00612,C0155,2025-04-23T18:46:00,Subscription,Please cancel my subscription before renewal.
+T00613,C0038,2025-07-23T07:30:00,Technical,The app closes when I try to upload a file.
+T00614,C0267,2025-11-21T05:26:00,Billing,Could you send me the invoice for this month?
+T00615,C0279,2025-07-28T11:55:00,Subscription,How can I upgrade to the Pro plan?
+T00616,C0453,2025-11-05T11:19:00,Account,How can I update my account details?
+T00617,C0185,2025-11-27T21:06:00,Technical,I get an error when exporting my report.
+T00618,C0244,2025-02-25T22:49:00,Billing,Could you send me the invoice for this month?
+T00619,C0229,2026-01-09T20:56:00,Account,I would like to close my account.
+T00620,C0125,2026-01-18T10:57:00,Billing,Could you send me the invoice for this month?
+T00621,C0469,2025-08-01T08:45:00,Billing,The discount was not applied to my payment.
+T00622,C0371,2025-10-15T17:38:00,Technical,My dashboard has not updated since yesterday.
+T00623,C0264,2025-03-11T01:29:00,Subscription,Please cancel my subscription before renewal.
+T00624,C0460,2025-12-17T17:32:00,Account,I cannot log in after resetting my password.
+T00625,C0486,2025-08-01T18:21:00,Billing,The discount was not applied to my payment.
+T00626,C0004,2025-03-15T22:52:00,Billing,The discount was not applied to my payment.
+T00627,C0397,2025-04-01T14:28:00,Account,I cannot log in after resetting my password.
+T00628,C0106,2025-04-11T02:27:00,Subscription,What features are included in the Premium plan?
+T00629,C0352,2025-08-21T15:40:00,Account,I would like to close my account.
+T00630,C0170,2025-12-17T02:30:00,Billing,I was charged twice for my subscription.
+T00631,C0092,2025-07-16T02:24:00,Technical,I get an error when exporting my report.
+T00632,C0421,2025-12-23T13:54:00,Account,How can I update my account details?
+T00633,C0231,2026-01-29T10:47:00,Subscription,How can I upgrade to the Pro plan?
+T00634,C0200,2025-08-31T00:12:00,Billing,The discount was not applied to my payment.
+T00635,C0369,2025-05-01T01:33:00,Billing,The discount was not applied to my payment.
+T00636,C0435,2025-09-12T17:09:00,Billing,I was charged twice for my subscription.
+T00637,C0149,2026-02-23T02:57:00,Technical,My dashboard has not updated since yesterday.
+T00638,C0392,2025-12-25T13:29:00,Subscription,What features are included in the Premium plan?
+T00639,C0016,2025-12-25T18:12:00,Subscription,How can I upgrade to the Pro plan?
+T00640,C0070,2026-02-07T10:04:00,Subscription,What features are included in the Premium plan?
+T00641,C0074,2025-08-10T22:06:00,Technical,My dashboard has not updated since yesterday.
+T00642,C0491,2026-01-29T18:56:00,Billing,I was charged twice for my subscription.
+T00643,C0064,2025-01-28T19:32:00,Billing,The discount was not applied to my payment.
+T00644,C0202,2025-03-24T07:10:00,Billing,The discount was not applied to my payment.
+T00645,C0380,2026-01-08T14:05:00,Technical,I get an error when exporting my report.
+T00646,C0436,2025-12-10T06:16:00,Account,I cannot log in after resetting my password.
+T00647,C0316,2025-10-28T03:54:00,Technical,The app closes when I try to upload a file.
+T00648,C0344,2025-07-09T15:44:00,Billing,The discount was not applied to my payment.
+T00649,C0282,2025-11-03T22:55:00,Billing,I was charged twice for my subscription.
+T00650,C0129,2025-07-05T19:49:00,Billing,Could you send me the invoice for this month?
+T00651,C0488,2025-12-09T04:22:00,Technical,I get an error when exporting my report.
+T00652,C0336,2025-05-04T09:43:00,Account,I would like to close my account.
+T00653,C0036,2025-11-07T16:35:00,Account,How can I update my account details?
+T00654,C0169,2025-04-12T19:56:00,Technical,The app closes when I try to upload a file.
+T00655,C0290,2025-03-28T14:37:00,Technical,The app closes when I try to upload a file. Contact me at customer.654@example.com or +1 202-555-0151.
+T00656,C0003,2025-11-30T07:33:00,Technical,I get an error when exporting my report.
+T00657,C0379,2025-09-12T12:16:00,Subscription,How can I upgrade to the Pro plan?
+T00658,C0348,2025-09-02T15:47:00,Technical,My dashboard has not updated since yesterday.
+T00659,C0184,2025-09-23T18:49:00,Technical,The app closes when I try to upload a file.
+T00660,C0090,2025-03-14T04:46:00,Billing,The discount was not applied to my payment.
+T00661,C0101,2026-02-09T02:36:00,Technical,I get an error when exporting my report.
+T00662,C0039,2025-08-03T21:33:00,Billing,I was charged twice for my subscription.
+T00663,C0417,2026-02-01T07:15:00,Subscription,How can I upgrade to the Pro plan?
+T00664,C0283,2025-10-06T18:25:00,Technical,My dashboard has not updated since yesterday.
+T00665,C0335,2025-09-12T13:23:00,Account,I cannot log in after resetting my password.
+T00666,C0457,2025-04-27T15:51:00,Technical,I get an error when exporting my report.
+T00667,C0262,2025-04-23T12:25:00,Billing,The discount was not applied to my payment.
+T00668,C0006,2026-02-15T23:21:00,Account,I cannot log in after resetting my password.
+T00669,C0388,2025-08-05T05:26:00,Account,I cannot log in after resetting my password.
+T00670,C0290,2025-04-18T12:14:00,Account,I cannot log in after resetting my password.
+T00671,C0113,2025-08-28T02:08:00,Subscription,Please cancel my subscription before renewal.
+T00672,C0190,2025-08-09T22:49:00,Account,I cannot log in after resetting my password. Please call me on 2025550138.
+T00673,C0266,2026-01-16T16:01:00,Technical,My dashboard has not updated since yesterday.
+T00674,C0452,2025-04-08T22:08:00,Billing,Could you send me the invoice for this month?
+T00675,C0053,2025-10-25T19:45:00,Technical,I get an error when exporting my report.
+T00676,C0292,2025-03-13T22:18:00,Account,How can I update my account details?
+T00677,C0188,2025-10-13T08:35:00,Billing,Could you send me the invoice for this month?
+T00678,C0499,2025-08-28T13:51:00,Account,How can I update my account details?
+T00679,C0419,2025-08-16T16:27:00,Technical,I get an error when exporting my report.
+T00680,C0004,2025-04-14T05:39:00,Account,I cannot log in after resetting my password.
+T00681,C0040,2025-01-29T05:07:00,Technical,The app closes when I try to upload a file.
+T00682,C0081,2025-04-23T04:02:00,Technical,I get an error when exporting my report.
+T00683,C0118,2025-07-30T03:52:00,Subscription,Please cancel my subscription before renewal.
+T00684,C0346,2025-12-04T07:11:00,Subscription,What features are included in the Premium plan?
+T00685,C0083,2025-10-26T08:19:00,Subscription,How can I upgrade to the Pro plan?
+T00686,C0066,2025-05-25T21:29:00,Account,I would like to close my account.
+T00687,C0021,2025-11-29T05:40:00,Account,How can I update my account details?
+T00688,C0473,2025-07-17T13:50:00,Account,I would like to close my account.
+T00689,C0497,2025-08-12T09:40:00,Billing,I was charged twice for my subscription.
+T00690,C0111,2025-06-06T16:05:00,Subscription,Please cancel my subscription before renewal.
+T00691,C0088,2025-10-14T20:30:00,Account,I cannot log in after resetting my password.
+T00692,C0407,2025-06-16T22:30:00,Account,I would like to close my account.
+T00693,C0136,2025-11-04T11:41:00,Account,How can I update my account details?
+T00694,C0306,2026-01-23T12:54:00,Billing,Could you send me the invoice for this month?
+T00695,C0068,2025-05-25T06:54:00,Billing,The discount was not applied to my payment.
+T00696,C0441,2025-11-20T20:40:00,Subscription,How can I upgrade to the Pro plan?
+T00697,C0091,2025-08-02T20:28:00,Subscription,How can I upgrade to the Pro plan?
+T00698,C0450,2025-12-16T16:27:00,Billing,The discount was not applied to my payment.
+T00699,C0067,2025-11-12T22:09:00,Billing,Could you send me the invoice for this month?
+T00700,C0268,2025-10-22T01:28:00,Subscription,What features are included in the Premium plan?
+T00701,C0272,2025-06-15T16:27:00,Subscription,Please cancel my subscription before renewal.
+T00702,C0180,2025-06-15T04:34:00,Billing,Could you send me the invoice for this month?
+T00703,C0245,2025-06-25T09:40:00,Account,I would like to close my account.
+T00704,C0449,2025-11-05T06:27:00,Subscription,How can I upgrade to the Pro plan?
+T00705,C0364,2025-07-03T17:50:00,Billing,I was charged twice for my subscription.
+T00706,C0267,2025-11-05T22:20:00,Billing,I was charged twice for my subscription.
+T00707,C0353,2025-04-18T12:21:00,Technical,The app closes when I try to upload a file.
+T00708,C0080,2025-04-23T19:58:00,Subscription,Please cancel my subscription before renewal.
+T00709,C0134,2025-12-30T12:28:00,Subscription,What features are included in the Premium plan?
+T00710,C0142,2025-06-01T14:06:00,Subscription,What features are included in the Premium plan?
+T00711,C0402,2025-12-31T12:38:00,Subscription,What features are included in the Premium plan?
+T00712,C0285,2026-01-22T10:28:00,Subscription,What features are included in the Premium plan?
+T00713,C0177,2025-02-02T22:30:00,Subscription,How can I upgrade to the Pro plan?
+T00714,C0383,2025-08-25T23:52:00,Account,I cannot log in after resetting my password.
+T00715,C0052,2025-09-27T13:40:00,Account,How can I update my account details?
+T00716,C0411,2025-05-14T13:16:00,Billing,The discount was not applied to my payment.
+T00717,C0003,2025-11-17T16:05:00,Billing,The discount was not applied to my payment.
+T00718,C0223,2025-10-31T08:58:00,Billing,I was charged twice for my subscription. Contact me at customer.717@example.com or 2025550153.
+T00719,C0190,2025-10-20T01:17:00,Billing,The discount was not applied to my payment.
+T00720,C0197,2026-01-26T22:23:00,Subscription,What features are included in the Premium plan?
+T00721,C0147,2025-09-17T21:51:00,Billing,Could you send me the invoice for this month?
+T00722,C0225,2025-06-02T22:25:00,Billing,The discount was not applied to my payment.
+T00723,C0147,2025-08-30T20:27:00,Account,I would like to close my account.
+T00724,C0265,2025-07-13T05:47:00,Account,I would like to close my account.
+T00725,C0019,2025-08-08T22:21:00,Technical,The app closes when I try to upload a file.
+T00726,C0500,2025-07-19T09:25:00,Account,How can I update my account details?
+T00727,C0181,2025-05-17T20:00:00,Subscription,How can I upgrade to the Pro plan?
+T00728,C0266,2026-02-26T02:20:00,Billing,I was charged twice for my subscription.
+T00729,C0282,2025-12-07T19:53:00,Technical,My dashboard has not updated since yesterday.
+T00730,C0178,2025-12-13T20:41:00,Technical,The app closes when I try to upload a file.
+T00731,C0233,2025-03-16T00:09:00,Subscription,Please cancel my subscription before renewal.
+T00732,C0090,2025-04-12T03:38:00,Subscription,What features are included in the Premium plan?
+T00733,C0038,2025-06-29T03:59:00,Technical,I get an error when exporting my report.
+T00734,C0490,2026-02-02T19:37:00,Technical,My dashboard has not updated since yesterday.
+T00735,C0356,2025-10-21T19:13:00,Subscription,Please cancel my subscription before renewal.
+T00736,C0395,2025-10-20T15:39:00,Account,I would like to close my account.
+T00737,C0236,2025-04-08T03:58:00,Billing,Could you send me the invoice for this month?
+T00738,C0035,2025-10-06T07:31:00,Subscription,What features are included in the Premium plan? Please call me on 2025550147.
+T00739,C0360,2025-12-31T14:04:00,Account,How can I update my account details?
+T00740,C0265,2025-07-24T08:59:00,Billing,I was charged twice for my subscription.
+T00741,C0148,2025-04-24T22:59:00,Billing,The discount was not applied to my payment.
+T00742,C0421,2025-11-29T18:55:00,Technical,The app closes when I try to upload a file.
+T00743,C0244,2025-03-28T07:27:00,Technical,I get an error when exporting my report.
+T00744,C0138,2025-12-15T06:29:00,Account,How can I update my account details?
+T00745,C0378,2025-03-30T08:15:00,Account,How can I update my account details?
+T00746,C0106,2025-02-13T08:31:00,Account,I would like to close my account.
+T00747,C0183,2025-01-27T04:05:00,Account,I cannot log in after resetting my password.
+T00748,C0347,2026-02-21T00:13:00,Subscription,What features are included in the Premium plan?
+T00749,C0491,2026-01-20T12:40:00,Billing,The discount was not applied to my payment.
+T00750,C0162,2026-03-06T09:22:00,Subscription,Please cancel my subscription before renewal.
+T00751,C0094,2026-01-20T07:34:00,Technical,I get an error when exporting my report.
+T00752,C0066,2025-07-14T14:26:00,Billing,Could you send me the invoice for this month?
+T00753,C0482,2026-02-09T11:51:00,Billing,Could you send me the invoice for this month?
+T00754,C0441,2025-12-29T04:06:00,Account,I would like to close my account.
+T00755,C0266,2026-01-07T23:31:00,Subscription,How can I upgrade to the Pro plan?
+T00756,C0007,2025-06-10T19:49:00,Account,I cannot log in after resetting my password. Please reply to customer.755@example.com.
+T00757,C0167,2025-10-05T08:51:00,Technical,The app closes when I try to upload a file.
+T00758,C0281,2025-07-19T09:11:00,Technical,My dashboard has not updated since yesterday.
+T00759,C0491,2026-01-05T06:16:00,Technical,My dashboard has not updated since yesterday.
+T00760,C0218,2026-02-15T23:55:00,Account,How can I update my account details?
+T00761,C0187,2025-11-21T15:23:00,Subscription,How can I upgrade to the Pro plan?
+T00762,C0293,2025-09-14T23:24:00,Account,I cannot log in after resetting my password.
+T00763,C0417,2025-12-22T08:02:00,Billing,The discount was not applied to my payment.
+T00764,C0222,2025-02-28T04:58:00,Subscription,What features are included in the Premium plan?
+T00765,C0077,2025-01-31T06:01:00,Subscription,Please cancel my subscription before renewal.
+T00766,C0256,2025-09-03T17:38:00,Account,I would like to close my account.
+T00767,C0369,2025-04-19T10:14:00,Technical,My dashboard has not updated since yesterday. Please call me on +1 202-555-0136.
+T00768,C0288,2025-03-10T03:22:00,Billing,The discount was not applied to my payment.
+T00769,C0084,2025-03-10T08:40:00,Billing,Could you send me the invoice for this month?
+T00770,C0430,2025-03-30T11:25:00,Billing,Could you send me the invoice for this month?
+T00771,C0185,2026-01-10T19:01:00,Technical,My dashboard has not updated since yesterday.
+T00772,C0177,2025-03-09T04:08:00,Billing,Could you send me the invoice for this month?
+T00773,C0445,2025-09-16T19:39:00,Account,I would like to close my account.
+T00774,C0333,2025-12-03T12:07:00,Account,How can I update my account details?
+T00775,C0345,2025-02-28T02:40:00,Subscription,Please cancel my subscription before renewal.
+T00776,C0315,2025-09-29T21:33:00,Technical,The app closes when I try to upload a file.
+T00777,C0445,2025-09-24T11:30:00,Account,How can I update my account details?
+T00778,C0324,2025-07-24T02:42:00,Subscription,How can I upgrade to the Pro plan?
+T00779,C0176,2025-08-08T10:48:00,Account,I would like to close my account.
+T00780,C0150,2025-08-28T22:00:00,Technical,My dashboard has not updated since yesterday.
+T00781,C0139,2025-07-11T20:02:00,Subscription,What features are included in the Premium plan?
+T00782,C0495,2025-10-22T05:42:00,Subscription,How can I upgrade to the Pro plan?
+T00783,C0438,2025-06-11T08:00:00,Billing,The discount was not applied to my payment.
+T00784,C0129,2025-07-06T05:41:00,Billing,Could you send me the invoice for this month?
+T00785,C0053,2025-09-30T16:09:00,Billing,The discount was not applied to my payment.
+T00786,C0028,2026-01-15T17:53:00,Billing,I was charged twice for my subscription.
+T00787,C0054,2025-07-14T05:18:00,Technical,The app closes when I try to upload a file.
+T00788,C0336,2025-05-31T07:49:00,Subscription,How can I upgrade to the Pro plan?
+T00789,C0378,2025-04-25T21:23:00,Technical,The app closes when I try to upload a file.
+T00790,C0068,2025-05-26T01:11:00,Account,I would like to close my account.
+T00791,C0183,2025-03-15T15:56:00,Technical,I get an error when exporting my report.
+T00792,C0479,2025-12-31T15:11:00,Technical,The app closes when I try to upload a file.
+T00793,C0497,2025-08-03T20:23:00,Account,How can I update my account details?
+T00794,C0324,2025-09-20T21:50:00,Subscription,What features are included in the Premium plan? Please reply to customer.793@example.com.
+T00795,C0274,2025-09-30T16:26:00,Technical,I get an error when exporting my report.
+T00796,C0117,2025-06-20T10:30:00,Billing,Could you send me the invoice for this month?
+T00797,C0212,2025-04-28T10:21:00,Technical,The app closes when I try to upload a file.
+T00798,C0001,2025-07-04T09:47:00,Account,How can I update my account details?
+T00799,C0274,2025-11-13T16:47:00,Billing,Could you send me the invoice for this month?
+T00800,C0154,2026-01-11T09:59:00,Billing,The discount was not applied to my payment.
+T00801,C0119,2025-09-07T12:45:00,Billing,I was charged twice for my subscription.
+T00802,C0211,2025-04-22T08:31:00,Subscription,How can I upgrade to the Pro plan?
+T00803,C0367,2025-09-24T07:31:00,Subscription,Please cancel my subscription before renewal.
+T00804,C0041,2025-06-21T08:10:00,Subscription,What features are included in the Premium plan?
+T00805,C0392,2025-12-13T22:08:00,Technical,I get an error when exporting my report. Please reply to customer.804@example.com.
+T00806,C0273,2025-12-19T06:25:00,Technical,The app closes when I try to upload a file.
+T00807,C0094,2026-01-07T03:46:00,Account,I would like to close my account.
+T00808,C0234,2025-10-02T23:54:00,Subscription,What features are included in the Premium plan?
+T00809,C0252,2025-07-25T00:39:00,Account,I cannot log in after resetting my password.
+T00810,C0026,2025-02-26T03:29:00,Billing,Could you send me the invoice for this month?
+T00811,C0138,2025-11-14T00:16:00,Account,I cannot log in after resetting my password.
+T00812,C0047,2025-10-19T16:50:00,Account,I cannot log in after resetting my password.
+T00813,C0176,2025-08-07T17:00:00,Subscription,Please cancel my subscription before renewal.
+T00814,C0238,2025-04-11T02:44:00,Billing,I was charged twice for my subscription. Please reply to customer.813@example.com.
+T00815,C0029,2025-05-02T02:26:00,Technical,I get an error when exporting my report.
+T00816,C0241,2025-06-21T08:32:00,Account,How can I update my account details?
+T00817,C0425,2025-12-12T08:29:00,Billing,Could you send me the invoice for this month?
+T00818,C0395,2025-10-08T01:08:00,Subscription,How can I upgrade to the Pro plan?
+T00819,C0236,2025-04-13T22:43:00,Billing,I was charged twice for my subscription.
+T00820,C0243,2025-12-10T10:39:00,Subscription,Please cancel my subscription before renewal.
+T00821,C0082,2025-10-04T17:46:00,Billing,I was charged twice for my subscription.
+T00822,C0130,2025-12-07T10:11:00,Subscription,How can I upgrade to the Pro plan?
+T00823,C0185,2026-01-24T07:26:00,Billing,I was charged twice for my subscription.
+T00824,C0121,2025-04-11T00:30:00,Subscription,How can I upgrade to the Pro plan?
+T00825,C0407,2025-06-11T04:05:00,Technical,My dashboard has not updated since yesterday.
+T00826,C0405,2025-10-22T01:26:00,Account,I would like to close my account.
+T00827,C0402,2026-03-07T20:21:00,Subscription,How can I upgrade to the Pro plan? Please call me on +1 202-555-0148.
+T00828,C0191,2025-08-05T05:22:00,Billing,Could you send me the invoice for this month?
+T00829,C0047,2026-01-06T02:02:00,Technical,The app closes when I try to upload a file.
+T00830,C0183,2025-04-13T18:18:00,Account,I cannot log in after resetting my password.
+T00831,C0065,2025-08-24T10:48:00,Subscription,What features are included in the Premium plan?
+T00832,C0404,2025-04-06T06:35:00,Technical,The app closes when I try to upload a file.
+T00833,C0353,2025-04-11T04:35:00,Subscription,Please cancel my subscription before renewal.
+T00834,C0461,2026-01-26T14:56:00,Billing,The discount was not applied to my payment.
+T00835,C0151,2025-08-31T19:20:00,Subscription,How can I upgrade to the Pro plan?
+T00836,C0279,2025-08-27T15:59:00,Technical,My dashboard has not updated since yesterday.
+T00837,C0445,2025-07-13T18:07:00,Account,I cannot log in after resetting my password.
+T00838,C0231,2026-01-07T18:29:00,Technical,My dashboard has not updated since yesterday.
+T00839,C0233,2025-03-24T17:16:00,Billing,Could you send me the invoice for this month?
+T00840,C0376,2025-03-23T21:09:00,Account,How can I update my account details? Contact me at customer.839@example.com or (202) 555-0152.
+T00841,C0398,2025-04-22T02:09:00,Account,I would like to close my account.
+T00842,C0496,2025-06-20T17:53:00,Subscription,What features are included in the Premium plan?
+T00843,C0255,2025-11-07T09:39:00,Account,How can I update my account details?
+T00844,C0210,2025-03-17T03:17:00,Technical,I get an error when exporting my report.
+T00845,C0338,2025-12-02T04:25:00,Billing,I was charged twice for my subscription.
+T00846,C0448,2025-03-06T03:39:00,Billing,Could you send me the invoice for this month?
+T00847,C0099,2025-12-22T19:29:00,Billing,The discount was not applied to my payment.
+T00848,C0429,2026-01-29T16:43:00,Subscription,What features are included in the Premium plan? Please call me on (202) 555-0146.
+T00849,C0320,2025-12-19T12:30:00,Technical,The app closes when I try to upload a file.
+T00850,C0311,2025-12-15T07:07:00,Billing,The discount was not applied to my payment.
+T00851,C0252,2025-08-12T21:48:00,Billing,I was charged twice for my subscription. Please reply to customer.850@example.com.
+T00852,C0185,2025-12-17T01:59:00,Subscription,What features are included in the Premium plan?
+T00853,C0137,2025-09-05T10:22:00,Billing,I was charged twice for my subscription.
+T00854,C0484,2025-11-22T03:18:00,Account,I cannot log in after resetting my password.
+T00855,C0372,2025-12-22T13:09:00,Account,I cannot log in after resetting my password.
+T00856,C0099,2026-02-28T21:20:00,Account,I cannot log in after resetting my password.
+T00857,C0286,2025-12-25T21:47:00,Subscription,What features are included in the Premium plan?
+T00858,C0184,2025-10-20T22:42:00,Subscription,Please cancel my subscription before renewal. Please reply to customer.857@example.com.
+T00859,C0453,2025-09-03T06:09:00,Billing,The discount was not applied to my payment.
+T00860,C0206,2026-02-28T05:23:00,Technical,I get an error when exporting my report.
+T00861,C0308,2025-12-22T10:45:00,Subscription,What features are included in the Premium plan?
+T00862,C0167,2025-09-09T21:36:00,Technical,My dashboard has not updated since yesterday.
+T00863,C0423,2025-08-24T08:12:00,Technical,I get an error when exporting my report.
+T00864,C0280,2025-03-08T18:46:00,Account,I would like to close my account.
+T00865,C0131,2025-09-21T15:16:00,Technical,My dashboard has not updated since yesterday.
+T00866,C0001,2025-06-26T20:20:00,Billing,I was charged twice for my subscription.
+T00867,C0266,2026-01-05T00:13:00,Account,How can I update my account details?
+T00868,C0114,2025-05-02T00:44:00,Account,I would like to close my account.
+T00869,C0422,2025-04-09T17:27:00,Technical,I get an error when exporting my report.
+T00870,C0293,2025-07-15T01:17:00,Account,How can I update my account details?
+T00871,C0183,2025-01-31T09:02:00,Account,How can I update my account details?
+T00872,C0456,2025-10-30T08:44:00,Account,How can I update my account details?
+T00873,C0048,2025-04-18T07:25:00,Subscription,What features are included in the Premium plan?
+T00874,C0040,2025-03-04T05:54:00,Technical,My dashboard has not updated since yesterday.
+T00875,C0423,2025-08-23T21:55:00,Billing,Could you send me the invoice for this month?
+T00876,C0020,2026-01-05T01:54:00,Subscription,Please cancel my subscription before renewal.
+T00877,C0179,2025-10-23T04:06:00,Subscription,How can I upgrade to the Pro plan?
+T00878,C0383,2025-09-18T21:34:00,Billing,Could you send me the invoice for this month?
+T00879,C0028,2026-02-01T01:24:00,Technical,My dashboard has not updated since yesterday.
+T00880,C0277,2025-11-30T17:08:00,Account,I would like to close my account.
+T00881,C0114,2025-03-29T22:59:00,Account,I would like to close my account.
+T00882,C0202,2025-04-30T19:38:00,Subscription,What features are included in the Premium plan? Please reply to customer.881@example.com.
+T00883,C0047,2025-12-12T09:53:00,Account,How can I update my account details?
+T00884,C0076,2025-05-03T02:49:00,Account,How can I update my account details?
+T00885,C0293,2025-09-11T13:37:00,Billing,Could you send me the invoice for this month?
+T00886,C0044,2025-12-02T14:49:00,Subscription,What features are included in the Premium plan?
+T00887,C0067,2025-10-18T19:05:00,Account,I cannot log in after resetting my password.
+T00888,C0250,2026-01-18T19:30:00,Subscription,How can I upgrade to the Pro plan?
+T00889,C0288,2025-02-19T02:26:00,Account,How can I update my account details?
+T00890,C0398,2025-04-22T23:22:00,Subscription,What features are included in the Premium plan?
+T00891,C0046,2025-08-31T14:07:00,Billing,Could you send me the invoice for this month?
+T00892,C0188,2025-09-01T10:56:00,Technical,My dashboard has not updated since yesterday.
+T00893,C0305,2025-11-28T05:46:00,Billing,Could you send me the invoice for this month?
+T00894,C0316,2025-12-22T04:58:00,Subscription,Please cancel my subscription before renewal.
+T00895,C0023,2025-12-19T23:23:00,Account,How can I update my account details?
+T00896,C0080,2025-02-13T01:51:00,Billing,I was charged twice for my subscription.
+T00897,C0486,2025-08-16T00:28:00,Account,How can I update my account details?
+T00898,C0356,2025-10-12T15:21:00,Billing,Could you send me the invoice for this month?
+T00899,C0012,2025-02-18T18:21:00,Technical,The app closes when I try to upload a file.
+T00900,C0105,2025-05-08T16:29:00,Technical,I get an error when exporting my report.
+T00901,C0374,2025-08-24T23:51:00,Account,I would like to close my account.
+T00902,C0010,2025-05-07T22:38:00,Subscription,What features are included in the Premium plan?
+T00903,C0023,2025-12-15T02:03:00,Technical,My dashboard has not updated since yesterday.
+T00904,C0103,2025-03-30T15:52:00,Technical,I get an error when exporting my report.
+T00905,C0484,2025-09-25T13:15:00,Billing,The discount was not applied to my payment. Please reply to customer.904@example.com.
+T00906,C0139,2025-06-08T00:39:00,Technical,My dashboard has not updated since yesterday.
+T00907,C0445,2025-08-03T12:59:00,Subscription,What features are included in the Premium plan?
+T00908,C0364,2025-05-31T16:32:00,Billing,The discount was not applied to my payment.
+T00909,C0273,2025-11-20T06:47:00,Billing,The discount was not applied to my payment.
+T00910,C0495,2025-11-10T00:44:00,Subscription,How can I upgrade to the Pro plan?
+T00911,C0127,2025-11-14T16:43:00,Technical,My dashboard has not updated since yesterday.
+T00912,C0382,2025-04-05T11:50:00,Account,I would like to close my account.
+T00913,C0181,2025-06-15T10:19:00,Technical,The app closes when I try to upload a file.
+T00914,C0257,2025-01-08T21:21:00,Technical,My dashboard has not updated since yesterday.
+T00915,C0450,2025-12-08T18:56:00,Subscription,Please cancel my subscription before renewal.
+T00916,C0116,2025-10-06T13:24:00,Account,I would like to close my account.
+T00917,C0071,2025-06-19T17:46:00,Billing,The discount was not applied to my payment.
+T00918,C0314,2025-05-01T08:12:00,Account,I would like to close my account.
+T00919,C0079,2025-10-11T20:39:00,Subscription,Please cancel my subscription before renewal.
+T00920,C0230,2025-03-18T22:16:00,Account,I cannot log in after resetting my password.
+T00921,C0298,2025-04-01T10:32:00,Account,I would like to close my account.
+T00922,C0362,2025-10-15T04:57:00,Account,I would like to close my account.
+T00923,C0478,2025-12-12T02:18:00,Account,I would like to close my account.
+T00924,C0273,2025-11-20T10:50:00,Billing,I was charged twice for my subscription.
+T00925,C0373,2025-08-10T14:07:00,Billing,Could you send me the invoice for this month?
+T00926,C0156,2025-08-09T09:20:00,Subscription,How can I upgrade to the Pro plan?
+T00927,C0399,2025-03-16T04:29:00,Account,I cannot log in after resetting my password.
+T00928,C0014,2025-08-16T19:21:00,Technical,I get an error when exporting my report.
+T00929,C0119,2025-07-28T23:27:00,Account,I cannot log in after resetting my password.
+T00930,C0184,2025-10-19T16:16:00,Billing,I was charged twice for my subscription.
+T00931,C0258,2025-10-22T12:45:00,Subscription,How can I upgrade to the Pro plan?
+T00932,C0437,2025-08-19T16:10:00,Subscription,How can I upgrade to the Pro plan? Please call me on (202) 555-0137.
+T00933,C0084,2025-03-11T01:06:00,Account,How can I update my account details?
+T00934,C0392,2025-12-11T14:05:00,Billing,I was charged twice for my subscription.
+T00935,C0381,2025-12-04T02:15:00,Account,I cannot log in after resetting my password.
+T00936,C0475,2025-08-14T16:43:00,Subscription,What features are included in the Premium plan?
+T00937,C0167,2025-08-19T14:35:00,Subscription,Please cancel my subscription before renewal.
+T00938,C0398,2025-05-28T12:59:00,Billing,The discount was not applied to my payment.
+T00939,C0161,2025-07-03T19:31:00,Subscription,What features are included in the Premium plan?
+T00940,C0275,2025-08-25T03:43:00,Billing,Could you send me the invoice for this month?
+T00941,C0234,2025-09-29T17:42:00,Billing,The discount was not applied to my payment.
+T00942,C0203,2025-12-22T13:13:00,Billing,The discount was not applied to my payment.
+T00943,C0392,2025-12-01T09:56:00,Billing,Could you send me the invoice for this month?
+T00944,C0204,2025-09-23T15:44:00,Technical,The app closes when I try to upload a file.
+T00945,C0217,2025-04-12T01:51:00,Technical,I get an error when exporting my report.
+T00946,C0265,2025-06-24T22:03:00,Account,How can I update my account details?
+T00947,C0047,2025-11-10T19:58:00,Billing,The discount was not applied to my payment.
+T00948,C0280,2025-03-10T14:06:00,Account,How can I update my account details?
+T00949,C0231,2025-12-27T15:29:00,Billing,The discount was not applied to my payment. Please call me on +1 202-555-0130.
+T00950,C0460,2026-01-03T03:04:00,Account,How can I update my account details?
+T00951,C0166,2025-06-04T03:06:00,Account,I cannot log in after resetting my password.
+T00952,C0362,2025-11-10T12:23:00,Subscription,How can I upgrade to the Pro plan?
+T00953,C0269,2025-12-14T20:53:00,Subscription,How can I upgrade to the Pro plan?
+T00954,C0194,2025-08-17T05:49:00,Subscription,Please cancel my subscription before renewal.
+T00955,C0290,2025-03-08T04:56:00,Account,I cannot log in after resetting my password.
+T00956,C0394,2025-10-01T10:30:00,Billing,Could you send me the invoice for this month? Please reply to customer.955@example.com.
+T00957,C0374,2025-07-03T21:22:00,Subscription,How can I upgrade to the Pro plan?
+T00958,C0061,2025-09-25T00:07:00,Account,I would like to close my account. Please reply to customer.957@example.com.
+T00959,C0392,2025-11-08T15:39:00,Technical,My dashboard has not updated since yesterday.
+T00960,C0438,2025-08-03T00:11:00,Subscription,What features are included in the Premium plan?
+T00961,C0452,2025-05-03T07:24:00,Subscription,What features are included in the Premium plan?
+T00962,C0338,2026-01-24T13:59:00,Subscription,Please cancel my subscription before renewal.
+T00963,C0041,2025-05-03T18:40:00,Billing,Could you send me the invoice for this month?
+T00964,C0318,2025-06-07T06:18:00,Account,I cannot log in after resetting my password.
+T00965,C0029,2025-03-17T04:57:00,Technical,The app closes when I try to upload a file.
+T00966,C0342,2025-04-17T02:59:00,Technical,The app closes when I try to upload a file.
+T00967,C0056,2025-05-15T05:30:00,Subscription,What features are included in the Premium plan?
+T00968,C0146,2025-10-03T19:45:00,Account,How can I update my account details?
+T00969,C0477,2025-09-03T10:12:00,Billing,Could you send me the invoice for this month?
+T00970,C0189,2025-09-25T14:35:00,Subscription,What features are included in the Premium plan?
+T00971,C0034,2026-02-13T04:35:00,Technical,The app closes when I try to upload a file.
+T00972,C0356,2025-10-15T17:59:00,Technical,My dashboard has not updated since yesterday.
+T00973,C0269,2026-01-07T07:08:00,Account,I would like to close my account.
+T00974,C0030,2025-07-27T21:28:00,Billing,The discount was not applied to my payment. Please call me on +1 202-555-0142.
+T00975,C0045,2025-12-05T20:38:00,Subscription,What features are included in the Premium plan?
+T00976,C0148,2025-05-20T10:48:00,Subscription,Please cancel my subscription before renewal.
+T00977,C0270,2025-11-19T20:58:00,Technical,I get an error when exporting my report. Contact me at customer.976@example.com or +1 202-555-0154.
+T00978,C0255,2025-10-23T06:08:00,Subscription,What features are included in the Premium plan?
+T00979,C0120,2026-01-07T00:03:00,Technical,The app closes when I try to upload a file.
+T00980,C0013,2025-05-24T04:01:00,Subscription,What features are included in the Premium plan?
+T00981,C0435,2025-10-15T14:09:00,Account,How can I update my account details?
+T00982,C0024,2026-01-30T19:07:00,Technical,I get an error when exporting my report.
+T00983,C0109,2025-07-08T06:52:00,Billing,The discount was not applied to my payment.
+T00984,C0145,2025-05-13T10:30:00,Technical,My dashboard has not updated since yesterday.
+T00985,C0260,2025-01-27T03:53:00,Technical,I get an error when exporting my report.
+T00986,C0171,2025-04-30T19:25:00,Technical,I get an error when exporting my report.
+T00987,C0492,2025-09-14T06:37:00,Billing,Could you send me the invoice for this month?
+T00988,C0427,2026-01-05T16:21:00,Technical,My dashboard has not updated since yesterday.
+T00989,C0409,2025-11-02T04:38:00,Billing,Could you send me the invoice for this month?
+T00990,C0080,2025-04-08T11:26:00,Subscription,Please cancel my subscription before renewal. Please reply to customer.989@example.com.
+T00991,C0402,2025-12-16T17:47:00,Subscription,Please cancel my subscription before renewal.
+T00992,C0290,2025-04-28T18:17:00,Technical,The app closes when I try to upload a file.
+T00993,C0107,2025-05-01T02:15:00,Technical,The app closes when I try to upload a file.
+T00994,C0144,2026-02-04T12:48:00,Billing,The discount was not applied to my payment.
+T00995,C0274,2025-10-29T20:40:00,Account,How can I update my account details?
+T00996,C0096,2025-06-24T10:44:00,Billing,The discount was not applied to my payment.
+T00997,C0017,2025-06-21T02:57:00,Technical,My dashboard has not updated since yesterday.
+T00998,C0450,2026-01-21T15:25:00,Account,How can I update my account details?
+T00999,C0111,2025-04-12T03:49:00,Technical,My dashboard has not updated since yesterday.
+T01000,C0402,2026-01-03T03:09:00,Billing,Could you send me the invoice for this month?
+T00101,C0480,2025-08-12T00:18:00,Technical,My dashboard has not updated since yesterday.
+T00301,C0157,2025-04-06T22:22:00,Account,I cannot log in after resetting my password.
+T00501,C0134,2025-12-17T04:01:00,Technical,My dashboard has not updated since yesterday.
