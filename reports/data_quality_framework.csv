@@ -1,0 +1,8 @@
+check,dimension,metric,threshold,status,severity
+Customer ID uniqueness,Uniqueness,100.00%,100%,PASS,CRITICAL
+Ticket ID uniqueness,Uniqueness,100.00%,100%,PASS,CRITICAL
+Customer ID completeness,Completeness,100.00%,100%,PASS,CRITICAL
+Ticket customer ID completeness,Completeness,100.00%,100%,PASS,CRITICAL
+Ticket to customer referential integrity,Referential Integrity,100.00%,>=99%; target 100%,PASS,CRITICAL
+Valid ticket dates,Validity,100.00%,100%,PASS,CRITICAL
+Unexpected email exposure in comments,Privacy,0,0,PASS,CRITICAL
