@@ -1,0 +1,278 @@
+ticket_id,customer_id,created_at,category,comment,date_invalid_or_missing,customer_unknown,customer_conflicting,comment_missing
+T00311,C0110,2025-08-22T21:01:00,Account,I would like to close my account.,False,False,False,False
+T00196,C0301,2025-03-29T02:37:00,Account,How can I update my account details?,False,False,False,False
+T00678,C0499,2025-08-28T13:51:00,Account,How can I update my account details?,False,False,False,False
+T00881,C0114,2025-03-29T22:59:00,Account,I would like to close my account.,False,False,False,False
+T00665,C0335,2025-09-12T13:23:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00837,C0445,2025-07-13T18:07:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00247,C0347,2026-01-05T17:36:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00958,C0061,2025-09-25T00:07:00,Account,I would like to close my account. Please reply to [EMAIL].,False,False,False,False
+T00724,C0265,2025-07-13T05:47:00,Account,I would like to close my account.,False,False,False,False
+T00427,C0483,2025-09-19T14:49:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00715,C0052,2025-09-27T13:40:00,Account,How can I update my account details?,False,False,False,False
+T00457,C0207,2025-12-29T20:46:00,Account,I would like to close my account.,False,False,False,False
+T00950,C0460,2026-01-03T03:04:00,Account,How can I update my account details?,False,False,False,False
+T00417,C0108,2025-09-03T02:18:00,Account,How can I update my account details?,False,False,False,False
+T00669,C0388,2025-08-05T05:26:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00383,C0453,2025-08-17T20:57:00,Account,I would like to close my account.,False,False,False,False
+T00569,C0419,2025-08-12T11:19:00,Account,I would like to close my account.,False,False,False,False
+T00515,C0160,2025-10-18T13:05:00,Account,I would like to close my account.,False,False,False,False
+T00883,C0047,2025-12-12T09:53:00,Account,How can I update my account details?,False,False,False,False
+T00037,C0258,2025-10-14T19:49:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00095,C0349,2025-01-09T18:47:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00195,C0017,2025-06-09T00:32:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00387,C0453,2025-11-01T18:33:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00373,C0282,2025-10-09T15:46:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00807,C0094,2026-01-07T03:46:00,Account,I would like to close my account.,False,False,False,False
+T00124,C0104,2026-01-18T11:11:00,Account,I would like to close my account.,False,False,False,False
+T00745,C0378,2025-03-30T08:15:00,Account,How can I update my account details?,False,False,False,False
+T00402,C0175,2025-10-09T02:01:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00440,C0032,2025-06-09T22:46:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00841,C0398,2025-04-22T02:09:00,Account,I would like to close my account.,False,False,False,False
+T00031,C0301,2025-02-23T14:46:00,Account,I would like to close my account.,False,False,False,False
+T00278,C0398,2025-04-07T20:04:00,Account,I would like to close my account.,False,False,False,False
+T00406,C0070,2026-01-24T21:49:00,Account,How can I update my account details?,False,False,False,False
+T00275,C0226,2025-12-31T03:29:00,Account,I would like to close my account.,False,False,False,False
+T00790,C0068,2025-05-26T01:11:00,Account,I would like to close my account.,False,False,False,False
+T00616,C0453,2025-11-05T11:19:00,Account,How can I update my account details?,False,False,False,False
+T00434,C0106,2025-04-10T09:57:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00073,C0496,2025-06-02T19:55:00,Account,How can I update my account details?,False,False,False,False
+T00551,C0442,2025-12-14T16:39:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00437,C0199,2025-10-24T13:01:00,Account,How can I update my account details?,False,False,False,False
+T00398,C0289,2026-01-22T18:30:00,Account,How can I update my account details? Please reply to [EMAIL].,False,False,False,False
+T00537,C0253,2025-06-29T17:27:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00595,C0029,2025-04-16T05:29:00,Account,How can I update my account details?,False,False,False,False
+T00935,C0381,2025-12-04T02:15:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00052,C0161,2025-05-06T17:00:00,Account,I would like to close my account.,False,False,False,False
+T00260,C0061,2025-10-09T03:59:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00889,C0288,2025-02-19T02:26:00,Account,How can I update my account details?,False,False,False,False
+T00340,C0189,2025-10-19T03:30:00,Account,I would like to close my account.,False,False,False,False
+T00148,C0339,2025-07-13T10:15:00,Account,How can I update my account details?,False,False,False,False
+T00509,C0392,2026-01-08T03:00:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00309,C0329,2025-03-21T18:06:00,Account,I would like to close my account.,False,False,False,False
+T00921,C0298,2025-04-01T10:32:00,Account,I would like to close my account.,False,False,False,False
+T00062,C0061,2025-09-12T13:26:00,Account,How can I update my account details?,False,False,False,False
+T00040,C0334,2026-02-13T14:13:00,Account,I would like to close my account.,False,False,False,False
+T00468,C0015,2025-11-16T06:51:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00840,C0376,2025-03-23T21:09:00,Account,How can I update my account details? Contact me at [EMAIL] or [PHONE].,False,False,False,False
+T00330,C0374,2025-06-04T08:20:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00995,C0274,2025-10-29T20:40:00,Account,How can I update my account details?,False,False,False,False
+T00300,C0341,2025-01-17T13:31:00,Account,I would like to close my account.,False,False,False,False
+T00104,C0140,2025-03-03T11:17:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00477,C0332,2025-10-03T07:03:00,Account,How can I update my account details?,False,False,False,False
+T00653,C0036,2025-11-07T16:35:00,Account,How can I update my account details?,False,False,False,False
+T00261,C0192,2025-10-15T13:15:00,Account,How can I update my account details?,False,False,False,False
+T00284,C0142,2025-08-03T04:31:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00066,C0234,2025-11-14T17:35:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00726,C0500,2025-07-19T09:25:00,Account,How can I update my account details?,False,False,False,False
+T00897,C0486,2025-08-16T00:28:00,Account,How can I update my account details?,False,False,False,False
+T00262,C0306,2026-03-08T13:05:00,Account,How can I update my account details?,False,False,False,False
+T00811,C0138,2025-11-14T00:16:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00581,C0248,2025-04-19T19:44:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00227,C0478,2026-01-16T18:37:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00687,C0021,2025-11-29T05:40:00,Account,How can I update my account details?,False,False,False,False
+T00714,C0383,2025-08-25T23:52:00,Account,I cannot log in after resetting my password.,False,False,False,False
+T00160,C0371,2025-12-12T07:07:00,Account,How can I update my account details?,False,False,False,False
+T00543,C0332,2025-08-20T12:12:00,Account,How can I update my account details?,False,False,False,False
+T00748,C0347,2026-02-21T00:13:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00053,C0240,2025-05-04T16:58:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00314,C0494,2025-07-18T04:46:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00808,C0234,2025-10-02T23:54:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00467,C0160,2025-10-22T17:53:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00727,C0181,2025-05-17T20:00:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00794,C0324,2025-09-20T21:50:00,Subscription,What features are included in the Premium plan? Please reply to [EMAIL].,False,False,False,False
+T00663,C0417,2026-02-01T07:15:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00064,C0102,2025-03-07T01:22:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00131,C0024,2026-01-30T23:54:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00710,C0142,2025-06-01T14:06:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00873,C0048,2025-04-18T07:25:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00902,C0010,2025-05-07T22:38:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00848,C0429,2026-01-29T16:43:00,Subscription,What features are included in the Premium plan? Please call me on [PHONE].,False,False,False,False
+T00535,C0353,2025-04-08T08:00:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00252,C0304,2025-10-24T00:09:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00781,C0139,2025-07-11T20:02:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00085,C0361,2025-08-24T16:22:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00378,C0463,2025-06-11T03:08:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00110,C0072,2025-10-15T08:28:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00926,C0156,2025-08-09T09:20:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00096,C0209,2025-07-19T22:12:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00479,C0005,2025-11-21T22:05:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00592,C0364,2025-07-16T18:13:00,Subscription,Please cancel my subscription before renewal. Please reply to [EMAIL].,False,False,False,False
+T00135,C0446,2025-05-21T02:44:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00492,C0014,2025-07-07T08:51:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00980,C0013,2025-05-24T04:01:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00957,C0374,2025-07-03T21:22:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00069,C0425,2026-02-25T19:12:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00639,C0016,2025-12-25T18:12:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00720,C0197,2026-01-26T22:23:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00380,C0474,2025-12-28T16:56:00,Subscription,How can I upgrade to the Pro plan? Please reply to [EMAIL].,False,False,False,False
+T00568,C0336,2025-06-04T12:24:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00822,C0130,2025-12-07T10:11:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00876,C0020,2026-01-05T01:54:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00111,C0134,2025-11-18T15:14:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00343,C0187,2025-11-05T06:06:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00094,C0052,2025-09-04T16:07:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00292,C0112,2025-08-27T16:53:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00546,C0140,2025-05-16T16:19:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00765,C0077,2025-01-31T06:01:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00701,C0272,2025-06-15T16:27:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00937,C0167,2025-08-19T14:35:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00711,C0402,2025-12-31T12:38:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00173,C0329,2025-05-10T05:44:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00237,C0023,2026-01-05T14:41:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00087,C0347,2026-01-24T11:46:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00249,C0491,2025-12-19T13:49:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00813,C0176,2025-08-07T17:00:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00788,C0336,2025-05-31T07:49:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00704,C0449,2025-11-05T06:27:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00151,C0344,2025-07-06T10:52:00,Subscription,What features are included in the Premium plan? Please call me on [PHONE].,False,False,False,False
+T00559,C0435,2025-09-30T05:38:00,Subscription,How can I upgrade to the Pro plan? Please reply to [EMAIL].,False,False,False,False
+T00331,C0474,2025-11-22T15:28:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00202,C0140,2025-04-20T07:47:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00858,C0184,2025-10-20T22:42:00,Subscription,Please cancel my subscription before renewal. Please reply to [EMAIL].,False,False,False,False
+T00421,C0052,2025-10-05T22:13:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00550,C0093,2025-09-27T20:52:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00503,C0062,2025-06-14T10:11:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00212,C0443,2025-12-11T09:57:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00411,C0001,2025-08-01T01:06:00,Subscription,How can I upgrade to the Pro plan? Please reply to [EMAIL].,False,False,False,False
+T00690,C0111,2025-06-06T16:05:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00970,C0189,2025-09-25T14:35:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00495,C0274,2025-11-10T12:14:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00882,C0202,2025-04-30T19:38:00,Subscription,What features are included in the Premium plan? Please reply to [EMAIL].,False,False,False,False
+T00560,C0385,2025-04-24T08:13:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00433,C0321,2025-08-01T03:18:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00708,C0080,2025-04-23T19:58:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00279,C0180,2025-05-13T21:01:00,Subscription,How can I upgrade to the Pro plan?,False,False,False,False
+T00456,C0312,2025-11-22T05:52:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00612,C0155,2025-04-23T18:46:00,Subscription,Please cancel my subscription before renewal.,False,False,False,False
+T00263,C0096,2025-08-05T18:20:00,Subscription,What features are included in the Premium plan?,False,False,False,False
+T00943,C0392,2025-12-01T09:56:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00334,C0071,2025-05-22T16:56:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00098,C0031,2026-01-17T19:35:00,Billing,I was charged twice for my subscription. Please reply to [EMAIL].,False,False,False,False
+T00768,C0288,2025-03-10T03:22:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00123,C0470,2025-03-19T18:41:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00878,C0383,2025-09-18T21:34:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00157,C0332,2025-09-04T12:39:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00853,C0137,2025-09-05T10:22:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00705,C0364,2025-07-03T17:50:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00611,C0306,2026-03-15T21:00:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00940,C0275,2025-08-25T03:43:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00132,C0278,2025-01-31T16:06:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00464,C0331,2025-10-27T15:04:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00796,C0117,2025-06-20T10:30:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00784,C0129,2025-07-06T05:41:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00642,C0491,2026-01-29T18:56:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00674,C0452,2025-04-08T22:08:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00176,C0491,2026-01-26T01:09:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00987,C0492,2025-09-14T06:37:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00819,C0236,2025-04-13T22:43:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00528,C0356,2025-10-11T14:21:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00728,C0266,2026-02-26T02:20:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00898,C0356,2025-10-12T15:21:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00801,C0119,2025-09-07T12:45:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00607,C0264,2025-02-25T01:23:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00130,C0419,2025-07-12T19:44:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00677,C0188,2025-10-13T08:35:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00487,C0247,2025-02-23T09:26:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00506,C0093,2025-10-14T11:21:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00415,C0086,2026-03-09T22:52:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00866,C0001,2025-06-26T20:20:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00313,C0386,2025-12-13T13:06:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00565,C0255,2025-09-03T13:46:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00246,C0059,2026-01-21T22:07:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00125,C0227,2025-12-21T07:00:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00614,C0267,2025-11-21T05:26:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00719,C0190,2025-10-20T01:17:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00566,C0019,2025-07-20T20:37:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00413,C0290,2025-04-20T04:48:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00662,C0039,2025-08-03T21:33:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00449,C0467,2025-09-26T13:14:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00850,C0311,2025-12-15T07:07:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00660,C0090,2025-03-14T04:46:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00359,C0499,2025-09-05T03:15:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00542,C0436,2025-11-21T04:43:00,Billing,The discount was not applied to my payment. Please call me on [PHONE].,False,False,False,False
+T00538,C0371,2025-11-13T21:59:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00695,C0068,2025-05-25T06:54:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00295,C0024,2026-03-07T15:41:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00996,C0096,2025-06-24T10:44:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00341,C0346,2025-11-02T17:22:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00753,C0482,2026-02-09T11:51:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00531,C0317,2025-06-25T03:53:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00606,C0091,2025-06-08T05:55:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00379,C0063,2025-08-29T01:43:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00423,C0151,2025-09-16T08:54:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00453,C0076,2025-04-03T19:12:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00947,C0047,2025-11-10T19:58:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00558,C0028,2026-02-16T05:21:00,Billing,The discount was not applied to my payment. Please reply to [EMAIL].,False,False,False,False
+T00220,C0156,2025-07-09T11:20:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00144,C0361,2025-08-15T01:30:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00338,C0135,2025-03-05T15:32:00,Billing,The discount was not applied to my payment.,False,False,False,False
+T00821,C0082,2025-10-04T17:46:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00875,C0423,2025-08-23T21:55:00,Billing,Could you send me the invoice for this month?,False,False,False,False
+T00099,C0274,2025-09-08T14:15:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00571,C0232,2025-04-11T22:29:00,Billing,I was charged twice for my subscription.,False,False,False,False
+T00971,C0034,2026-02-13T04:35:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00291,C0341,2025-01-19T18:14:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00034,C0116,2025-10-29T09:41:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00844,C0210,2025-03-17T03:17:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00058,C0373,2025-08-21T12:29:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00869,C0422,2025-04-09T17:27:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00084,C0116,2025-09-29T07:04:00,Technical,I get an error when exporting my report. Contact me at [EMAIL] or [PHONE].,False,False,False,False
+T00860,C0206,2026-02-28T05:23:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00661,C0101,2026-02-09T02:36:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00567,C0327,2025-06-28T19:11:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00959,C0392,2025-11-08T15:39:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00067,C0168,2025-09-17T13:24:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00416,C0374,2025-07-24T00:23:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00780,C0150,2025-08-28T22:00:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00985,C0260,2025-01-27T03:53:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00604,C0364,2025-07-05T18:39:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00645,C0380,2026-01-08T14:05:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00112,C0489,2025-03-02T19:52:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00988,C0427,2026-01-05T16:21:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00805,C0392,2025-12-13T22:08:00,Technical,I get an error when exporting my report. Please reply to [EMAIL].,False,False,False,False
+T00485,C0262,2025-05-14T22:05:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00707,C0353,2025-04-18T12:21:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00900,C0105,2025-05-08T16:29:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00791,C0183,2025-03-15T15:56:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00561,C0497,2025-05-26T17:18:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00063,C0407,2025-06-08T12:28:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00647,C0316,2025-10-28T03:54:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00450,C0204,2025-09-22T17:44:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00461,C0160,2025-12-06T23:45:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00371,C0026,2025-03-08T05:56:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00863,C0423,2025-08-24T08:12:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00274,C0397,2025-03-14T01:25:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00517,C0153,2026-01-20T17:45:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00186,C0041,2025-05-23T15:40:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00060,C0186,2026-01-01T13:11:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00572,C0002,2025-04-08T21:37:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00679,C0419,2025-08-16T16:27:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00518,C0269,2025-12-04T23:26:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00363,C0426,2025-10-27T15:27:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00637,C0149,2026-02-23T02:57:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00408,C0456,2025-10-29T22:43:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00742,C0421,2025-11-29T18:55:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00631,C0092,2025-07-16T02:24:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00335,C0268,2025-09-26T12:41:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00500,C0447,2025-06-01T11:18:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00491,C0339,2025-08-17T04:46:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00655,C0290,2025-03-28T14:37:00,Technical,The app closes when I try to upload a file. Contact me at [EMAIL] or [PHONE].,False,False,False,False
+T00229,C0409,2025-11-08T02:21:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00730,C0178,2025-12-13T20:41:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00299,C0336,2025-05-24T02:48:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00734,C0490,2026-02-02T19:37:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00486,C0312,2025-12-26T23:21:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00553,C0134,2025-10-20T23:08:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00355,C0435,2025-08-11T07:00:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00389,C0177,2025-03-06T09:13:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00412,C0309,2025-07-15T07:32:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00945,C0217,2025-04-12T01:51:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00516,C0302,2025-06-24T02:13:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00164,C0165,2025-12-23T15:54:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00082,C0412,2025-12-06T16:31:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00293,C0166,2025-07-02T18:40:00,Technical,I get an error when exporting my report.,False,False,False,False
+T00806,C0273,2025-12-19T06:25:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00865,C0131,2025-09-21T15:16:00,Technical,My dashboard has not updated since yesterday.,False,False,False,False
+T00036,C0065,2025-10-12T18:12:00,Technical,The app closes when I try to upload a file.,False,False,False,False
+T00529,C0052,2025-10-11T20:40:00,Technical,I get an error when exporting my report.,False,False,False,False
