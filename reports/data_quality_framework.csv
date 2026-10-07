@@ -5,4 +5,5 @@ Customer ID completeness,Completeness,100.00%,100%,PASS,CRITICAL
 Ticket customer ID completeness,Completeness,100.00%,100%,PASS,CRITICAL
 Ticket to customer referential integrity,Referential Integrity,100.00%,>=99%; target 100%,PASS,CRITICAL
 Valid ticket dates,Validity,100.00%,100%,PASS,CRITICAL
+Support ticket data freshness,Freshness,15 days,PASS <=30d; WARNING 31-60d; FAIL >60d,PASS,CRITICAL
 Unexpected email exposure in comments,Privacy,0,0,PASS,CRITICAL

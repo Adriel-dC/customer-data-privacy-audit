@@ -139,7 +139,51 @@ add_result(
 )
 
 
-# 5. PII EXPOSURE
+# 5. FRESHNESS
+#
+# A fixed snapshot date keeps the portfolio result reproducible.
+# These thresholds are demonstration criteria for this project,
+# not universal business or regulatory standards.
+
+SNAPSHOT_DATE = pd.Timestamp("2026-03-31")
+
+latest_ticket_date = parsed_dates.max()
+
+if pd.isna(latest_ticket_date):
+    freshness_days = None
+    freshness_status = "FAIL"
+    freshness_metric = "No valid date"
+
+else:
+    freshness_days = (
+        SNAPSHOT_DATE - latest_ticket_date
+    ).days
+
+    freshness_metric = (
+        f"{freshness_days} days"
+    )
+
+    if freshness_days <= 30:
+        freshness_status = "PASS"
+
+    elif freshness_days <= 60:
+        freshness_status = "WARNING"
+
+    else:
+        freshness_status = "FAIL"
+
+
+add_result(
+    "Support ticket data freshness",
+    "Freshness",
+    freshness_metric,
+    "PASS <=30d; WARNING 31-60d; FAIL >60d",
+    freshness_status,
+    "CRITICAL",
+)
+
+
+# 6. PII EXPOSURE
 email_pattern = (
     r"\b[A-Za-z0-9._%+-]+@"
     r"[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"
@@ -172,7 +216,11 @@ report_path = (
     / "reports/data_quality_framework.csv"
 )
 
-report.to_csv(report_path, index=False)
+report.to_csv(
+    report_path,
+    index=False,
+)
+
 
 print("\nDATA QUALITY REPORT")
 print("=" * 80)
@@ -180,6 +228,7 @@ print("=" * 80)
 print(
     report.to_string(index=False)
 )
+
 
 print("\nSUMMARY")
 print("=" * 80)
@@ -190,22 +239,41 @@ print(
     .to_string()
 )
 
+
 critical_failures = report[
     (report["status"] == "FAIL")
     & (report["severity"] == "CRITICAL")
 ]
 
+warnings = report[
+    report["status"] == "WARNING"
+]
+
+
 if len(critical_failures) > 0:
     print(
         "\nPIPELINE STATUS: BLOCKED"
     )
+
     print(
-        f"Critical failures: {len(critical_failures)}"
+        f"Critical failures: "
+        f"{len(critical_failures)}"
     )
+
+elif len(warnings) > 0:
+    print(
+        "\nPIPELINE STATUS: APPROVED WITH WARNINGS"
+    )
+
+    print(
+        f"Warnings: {len(warnings)}"
+    )
+
 else:
     print(
         "\nPIPELINE STATUS: APPROVED"
     )
+
 
 print(
     "\nSaved: reports/data_quality_framework.csv"
