@@ -1,0 +1,2 @@
+request_id,requested_at,request_type,customer_id,identity_verification,customer_records_found,ticket_records_found,status
+DSAR-2026-001,2026-10-07T14:59:31.710461+00:00,ACCESS,C0491,SIMULATED_VERIFIED,1,7,READY_FOR_REVIEW

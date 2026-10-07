@@ -1,0 +1,12 @@
+record_type,customer_id,field,value
+customer_profile,C0491,name,[REDACTED_NAME]
+customer_profile,C0491,email,[REDACTED_EMAIL]
+customer_profile,C0491,plan,Basic
+customer_profile,C0491,signup_date,2025-11-20
+support_ticket,C0491,ticket_reference,T00083 | 2025-12-25T19:02:00 | Account
+support_ticket,C0491,ticket_reference,T00176 | 2026-01-26T01:09:00 | Billing
+support_ticket,C0491,ticket_reference,T00249 | 2025-12-19T13:49:00 | Subscription
+support_ticket,C0491,ticket_reference,T00297 | 2025-12-15T23:30:00 | Subscription
+support_ticket,C0491,ticket_reference,T00642 | 2026-01-29T18:56:00 | Billing
+support_ticket,C0491,ticket_reference,T00749 | 2026-01-20T12:40:00 | Billing
+support_ticket,C0491,ticket_reference,T00759 | 2026-01-05T06:16:00 | Technical
